@@ -1,0 +1,2441 @@
+{
+    "version": "26.11.26.6",
+    "total": 268,
+    "counts": {
+        "all": 268,
+        "widget": 182,
+        "layout": 59,
+        "extension": 27,
+        "free": 211,
+        "pro": 57,
+        "categories": {
+            "sliders-hero": 28,
+            "woocommerce": 15,
+            "layout-product-shop": 27,
+            "layout-cart-checkout": 20,
+            "layout-post-archive": 12,
+            "blog-storytelling": 18,
+            "headings-typography": 10,
+            "media-gallery-cards": 35,
+            "charts-maps-data": 14,
+            "forms-marketing-utility": 33,
+            "header-footer-nav": 16,
+            "social-feeds-reviews": 13,
+            "extensions": 27
+        }
+    },
+    "items": [
+        {
+            "slug": "royalpostslider",
+            "title": "Blog Hero Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalpostslider.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostslider"
+        },
+        {
+            "slug": "royalpostcreativeslider",
+            "title": "Creative Blog Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalpostcreativeslider.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostcreativeslider"
+        },
+        {
+            "slug": "royalwoosliderclassic",
+            "title": "Woo Classic & Circle Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoosliderclassic.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoosliderclassic"
+        },
+        {
+            "slug": "royalsliderisolate",
+            "title": "Isolate Split Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderisolate.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderisolate"
+        },
+        {
+            "slug": "royalslidershowcase",
+            "title": "Showcase Hero Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslidershowcase.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslidershowcase"
+        },
+        {
+            "slug": "royalmultiscroll",
+            "title": "Multiscroll Split Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalmultiscroll.webp",
+            "demo_url": "https://www.royaltechbd.com/royalmultiscroll"
+        },
+        {
+            "slug": "royalteam",
+            "title": "Team",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalteam.webp",
+            "demo_url": "https://www.royaltechbd.com/royalteam"
+        },
+        {
+            "slug": "royalskillbar",
+            "title": "Skill Bar",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalskillbar.webp",
+            "demo_url": "https://www.royaltechbd.com/royalskillbar"
+        },
+        {
+            "slug": "royalchartbar",
+            "title": "Bar Chart",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalchartbar.webp",
+            "demo_url": "https://www.royaltechbd.com/royalchartbar"
+        },
+        {
+            "slug": "royalfeatures",
+            "title": "Royal Features",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalfeatures.webp",
+            "demo_url": "https://www.royaltechbd.com/royalfeatures"
+        },
+        {
+            "slug": "royalportfolio",
+            "title": "Portfolio",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalportfolio.webp",
+            "demo_url": "https://www.royaltechbd.com/royalportfolio"
+        },
+        {
+            "slug": "royalvideo",
+            "title": "Video Carousel",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalvideo.webp",
+            "demo_url": "https://www.royaltechbd.com/royalvideo"
+        },
+        {
+            "slug": "royalcontenttoggle",
+            "title": "Content Toggle",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalcontenttoggle.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcontenttoggle"
+        },
+        {
+            "slug": "royalimageaccordion",
+            "title": "Image Accordion",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimageaccordion.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimageaccordion"
+        },
+        {
+            "slug": "royalunfold",
+            "title": "Unfold / Read More",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalunfold.webp",
+            "demo_url": "https://www.royaltechbd.com/royalunfold"
+        },
+        {
+            "slug": "royalstepflow",
+            "title": "Step Flow",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalstepflow.webp",
+            "demo_url": "https://www.royaltechbd.com/royalstepflow"
+        },
+        {
+            "slug": "royalwhatsappchat",
+            "title": "WhatsApp Chat",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalwhatsappchat.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwhatsappchat"
+        },
+        {
+            "slug": "royalcouponbox",
+            "title": "Coupon Box",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalcouponbox.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcouponbox"
+        },
+        {
+            "slug": "royalprotectedcontent",
+            "title": "Protected Content",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalprotectedcontent.webp",
+            "demo_url": "https://www.royaltechbd.com/royalprotectedcontent"
+        },
+        {
+            "slug": "royalwpformsstyler",
+            "title": "WPForms Styler",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalwpformsstyler.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwpformsstyler"
+        },
+        {
+            "slug": "royalfluentformsstyler",
+            "title": "Fluent Forms Styler",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalfluentformsstyler.webp",
+            "demo_url": "https://www.royaltechbd.com/royalfluentformsstyler"
+        },
+        {
+            "slug": "royaladvanceddatatable",
+            "title": "Advanced Data Table",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royaladvanceddatatable.webp",
+            "demo_url": "https://www.royaltechbd.com/royaladvanceddatatable"
+        },
+        {
+            "slug": "royalaudioplayer",
+            "title": "Audio Player",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalaudioplayer.webp",
+            "demo_url": "https://www.royaltechbd.com/royalaudioplayer"
+        },
+        {
+            "slug": "royalonepagescroll",
+            "title": "One Page Scroll",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalonepagescroll.webp",
+            "demo_url": "https://www.royaltechbd.com/royalonepagescroll"
+        },
+        {
+            "slug": "royalwooquickview",
+            "title": "Woo Quick View",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwooquickview.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwooquickview"
+        },
+        {
+            "slug": "royalwoocompare",
+            "title": "Woo Product Compare",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoocompare.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoocompare"
+        },
+        {
+            "slug": "royalwooajaxfilter",
+            "title": "Woo AJAX Filter",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwooajaxfilter.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwooajaxfilter"
+        },
+        {
+            "slug": "royaldivider",
+            "title": "Royal Divider",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royaldivider.webp",
+            "demo_url": "https://www.royaltechbd.com/royaldivider"
+        },
+        {
+            "slug": "royalheadinganimated",
+            "title": "Animated Heading",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalheadinganimated.webp",
+            "demo_url": "https://www.royaltechbd.com/royalheadinganimated"
+        },
+        {
+            "slug": "royalheadinggradient",
+            "title": "Heading Gradient",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalheadinggradient.webp",
+            "demo_url": "https://www.royaltechbd.com/royalheadinggradient"
+        },
+        {
+            "slug": "royalheading",
+            "title": "Heading",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalheading.webp",
+            "demo_url": "https://www.royaltechbd.com/royalheading"
+        },
+        {
+            "slug": "royalheadingdual",
+            "title": "Dual Header",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalheadingdual.webp",
+            "demo_url": "https://www.royaltechbd.com/royalheadingdual"
+        },
+        {
+            "slug": "royalwavetext",
+            "title": "Wave Text",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalwavetext.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwavetext"
+        },
+        {
+            "slug": "royalaccordion",
+            "title": "Accordion",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalaccordion.webp",
+            "demo_url": "https://www.royaltechbd.com/royalaccordion"
+        },
+        {
+            "slug": "royalpricingtable",
+            "title": "Pricing Table",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalpricingtable.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpricingtable"
+        },
+        {
+            "slug": "royalphonecall",
+            "title": "Phone Call",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalphonecall.webp",
+            "demo_url": "https://www.royaltechbd.com/royalphonecall"
+        },
+        {
+            "slug": "royalcalltoactionbox",
+            "title": "CallTo Action Box",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalcalltoactionbox.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcalltoactionbox"
+        },
+        {
+            "slug": "royalagegate",
+            "title": "Age Gate",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalagegate.webp",
+            "demo_url": "https://www.royaltechbd.com/royalagegate"
+        },
+        {
+            "slug": "royallottieanimations",
+            "title": "Lottie Animations",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royallottieanimations.webp",
+            "demo_url": "https://www.royaltechbd.com/royallottieanimations"
+        },
+        {
+            "slug": "royallordicon",
+            "title": "Lord Icon",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royallordicon.webp",
+            "demo_url": "https://www.royaltechbd.com/royallordicon"
+        },
+        {
+            "slug": "royalpricelist",
+            "title": "Price List",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalpricelist.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpricelist"
+        },
+        {
+            "slug": "royalpreviewcard",
+            "title": "Preview Card",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalpreviewcard.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpreviewcard"
+        },
+        {
+            "slug": "royalprofilecard",
+            "title": "Profile Card",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalprofilecard.webp",
+            "demo_url": "https://www.royaltechbd.com/royalprofilecard"
+        },
+        {
+            "slug": "royalcardmaker",
+            "title": "Card Maker",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalcardmaker.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcardmaker"
+        },
+        {
+            "slug": "royalflipbox",
+            "title": "Flipbox",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalflipbox.webp",
+            "demo_url": "https://www.royaltechbd.com/royalflipbox"
+        },
+        {
+            "slug": "royalpostgrid",
+            "title": "Post Grid",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalpostgrid.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostgrid"
+        },
+        {
+            "slug": "royalpostcategory",
+            "title": "Post Category",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalpostcategory.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostcategory"
+        },
+        {
+            "slug": "royalpostfilterable",
+            "title": "Filterable",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalpostfilterable.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostfilterable"
+        },
+        {
+            "slug": "royaltaxonomycarousel",
+            "title": "Taxonomy Carousel",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royaltaxonomycarousel.webp",
+            "demo_url": "https://www.royaltechbd.com/royaltaxonomycarousel"
+        },
+        {
+            "slug": "royalbreadcrumbs",
+            "title": "Breadcrumbs",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalbreadcrumbs.webp",
+            "demo_url": "https://www.royaltechbd.com/royalbreadcrumbs"
+        },
+        {
+            "slug": "royalservices",
+            "title": "Services",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalservices.webp",
+            "demo_url": "https://www.royaltechbd.com/royalservices"
+        },
+        {
+            "slug": "royalservicelist",
+            "title": "Service List",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalservicelist.webp",
+            "demo_url": "https://www.royaltechbd.com/royalservicelist"
+        },
+        {
+            "slug": "royalsourcecode",
+            "title": "Source Code",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalsourcecode.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsourcecode"
+        },
+        {
+            "slug": "royalcountdown",
+            "title": "Countdown",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalcountdown.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcountdown"
+        },
+        {
+            "slug": "royaltimeline",
+            "title": "Timeline",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royaltimeline.webp",
+            "demo_url": "https://www.royaltechbd.com/royaltimeline"
+        },
+        {
+            "slug": "royalbuttoneffects",
+            "title": "Button Effects",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalbuttoneffects.webp",
+            "demo_url": "https://www.royaltechbd.com/royalbuttoneffects"
+        },
+        {
+            "slug": "royalhtmltable",
+            "title": "Html Table",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalhtmltable.webp",
+            "demo_url": "https://www.royaltechbd.com/royalhtmltable"
+        },
+        {
+            "slug": "royalitemlists",
+            "title": "Item Lists",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalitemlists.webp",
+            "demo_url": "https://www.royaltechbd.com/royalitemlists"
+        },
+        {
+            "slug": "royalcountryflag",
+            "title": "Country Flag",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalcountryflag.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcountryflag"
+        },
+        {
+            "slug": "royalreview",
+            "title": "Review",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalreview.webp",
+            "demo_url": "https://www.royaltechbd.com/royalreview"
+        },
+        {
+            "slug": "royalopeninghours",
+            "title": "Opening Hours",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalopeninghours.webp",
+            "demo_url": "https://www.royaltechbd.com/royalopeninghours"
+        },
+        {
+            "slug": "royaleventcalendar",
+            "title": "Event Calendar",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royaleventcalendar.webp",
+            "demo_url": "https://www.royaltechbd.com/royaleventcalendar"
+        },
+        {
+            "slug": "royalusercounter",
+            "title": "User Counter",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalusercounter.webp",
+            "demo_url": "https://www.royaltechbd.com/royalusercounter"
+        },
+        {
+            "slug": "royalclockworld",
+            "title": "World Clock",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalclockworld.webp",
+            "demo_url": "https://www.royaltechbd.com/royalclockworld"
+        },
+        {
+            "slug": "royaldomainsearch",
+            "title": "Domain Search",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royaldomainsearch.webp",
+            "demo_url": "https://www.royaltechbd.com/royaldomainsearch"
+        },
+        {
+            "slug": "royalads",
+            "title": "Royal Ads",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalads.webp",
+            "demo_url": "https://www.royaltechbd.com/royalads"
+        },
+        {
+            "slug": "royalspotify",
+            "title": "Spotify",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalspotify.webp",
+            "demo_url": "https://www.royaltechbd.com/royalspotify"
+        },
+        {
+            "slug": "royalweathermap",
+            "title": "Weather Map",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalweathermap.webp",
+            "demo_url": "https://www.royaltechbd.com/royalweathermap"
+        },
+        {
+            "slug": "royaltestimonialcarousel",
+            "title": "Testimonial Carousel",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royaltestimonialcarousel.webp",
+            "demo_url": "https://www.royaltechbd.com/royaltestimonialcarousel"
+        },
+        {
+            "slug": "royalimagehotspots",
+            "title": "Image Hotspots",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagehotspots.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagehotspots"
+        },
+        {
+            "slug": "royallightbox",
+            "title": "Light Box",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royallightbox.webp",
+            "demo_url": "https://www.royaltechbd.com/royallightbox"
+        },
+        {
+            "slug": "royalimagebox",
+            "title": "Image Box",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagebox.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagebox"
+        },
+        {
+            "slug": "royalfeaturedcard",
+            "title": "Featured Card",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalfeaturedcard.webp",
+            "demo_url": "https://www.royaltechbd.com/royalfeaturedcard"
+        },
+        {
+            "slug": "royalimagecompare",
+            "title": "Image Compare",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagecompare.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagecompare"
+        },
+        {
+            "slug": "royalimagecompare2",
+            "title": "Image Compare2",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagecompare2.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagecompare2"
+        },
+        {
+            "slug": "royalimagecarousel",
+            "title": "Image Carousel",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagecarousel.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagecarousel"
+        },
+        {
+            "slug": "royalimagegallery",
+            "title": "Image Gallery",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagegallery.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagegallery"
+        },
+        {
+            "slug": "royalimagegallerysleek",
+            "title": "Image Gallery Sleek",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagegallerysleek.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagegallerysleek"
+        },
+        {
+            "slug": "royalimagecarousel3d",
+            "title": "Carousel 3D Image",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagecarousel3d.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagecarousel3d"
+        },
+        {
+            "slug": "royalimagehovereffect",
+            "title": "Image Hover Effect",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagehovereffect.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagehovereffect"
+        },
+        {
+            "slug": "royalimagecollage",
+            "title": "Image Collage",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagecollage.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagecollage"
+        },
+        {
+            "slug": "royalimagestack",
+            "title": "Image Stack",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagestack.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagestack"
+        },
+        {
+            "slug": "royalinfinitescroll",
+            "title": "Infinite Scroll",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalinfinitescroll.webp",
+            "demo_url": "https://www.royaltechbd.com/royalinfinitescroll"
+        },
+        {
+            "slug": "royalimagescroll",
+            "title": "Image Scroll",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagescroll.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagescroll"
+        },
+        {
+            "slug": "royalimagegrid",
+            "title": "Image Grid",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagegrid.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagegrid"
+        },
+        {
+            "slug": "royalimagemask",
+            "title": "Image Mask",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalimagemask.webp",
+            "demo_url": "https://www.royaltechbd.com/royalimagemask"
+        },
+        {
+            "slug": "royalcontentslider",
+            "title": "Content Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalcontentslider.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcontentslider"
+        },
+        {
+            "slug": "royalsliderdragon",
+            "title": "Dragon Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderdragon.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderdragon"
+        },
+        {
+            "slug": "royalslidergeneral",
+            "title": "General Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslidergeneral.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslidergeneral"
+        },
+        {
+            "slug": "royalsliderlanding",
+            "title": "Landing Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderlanding.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderlanding"
+        },
+        {
+            "slug": "royalslidernatural",
+            "title": "Natural Slider",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslidernatural.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslidernatural"
+        },
+        {
+            "slug": "royalslideeverything",
+            "title": "Slide Everything",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslideeverything.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslideeverything"
+        },
+        {
+            "slug": "royalslides",
+            "title": "Royal Slides",
+            "type": "widget",
+            "tier": "free",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslides.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslides"
+        },
+        {
+            "slug": "royalsitetitle",
+            "title": "Site Title",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalsitetitle.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsitetitle"
+        },
+        {
+            "slug": "royalsitelogo",
+            "title": "Site Logo",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalsitelogo.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsitelogo"
+        },
+        {
+            "slug": "royalsitetagline",
+            "title": "Site Tagline",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalsitetagline.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsitetagline"
+        },
+        {
+            "slug": "royalnavmenu",
+            "title": "Nav Menu",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalnavmenu.webp",
+            "demo_url": "https://www.royaltechbd.com/royalnavmenu"
+        },
+        {
+            "slug": "royalnavmenuvertical",
+            "title": "Vertical Nav Menu",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalnavmenuvertical.webp",
+            "demo_url": "https://www.royaltechbd.com/royalnavmenu"
+        },
+        {
+            "slug": "royalnavmenumobile",
+            "title": "Nav Menu Mobile",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalnavmenumobile.webp",
+            "demo_url": "https://www.royaltechbd.com/royalnavmenumobile"
+        },
+        {
+            "slug": "royalnavmenufullblob",
+            "title": "Nav Menu Full Blob",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalnavmenufullblob.webp",
+            "demo_url": "https://www.royaltechbd.com/royalnavmenufullblob"
+        },
+        {
+            "slug": "royalticker",
+            "title": "News Ticker",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalticker.webp",
+            "demo_url": "https://www.royaltechbd.com/royalticker"
+        },
+        {
+            "slug": "royalcopyright",
+            "title": "Copyright",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalcopyright.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcopyright"
+        },
+        {
+            "slug": "royalscrolltotop",
+            "title": "Scroll To Top",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalscrolltotop.webp",
+            "demo_url": "https://www.royaltechbd.com/royalscrolltotop"
+        },
+        {
+            "slug": "royalpreloader",
+            "title": "Preloader",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalpreloader.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpreloader"
+        },
+        {
+            "slug": "royalprayertimes",
+            "title": "Prayer Times",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalprayertimes.webp",
+            "demo_url": "https://www.royaltechbd.com/royalprayertimes"
+        },
+        {
+            "slug": "royalzakatcalculator",
+            "title": "Zakat Calculator",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalzakatcalculator.webp",
+            "demo_url": "https://www.royaltechbd.com/royalzakatcalculator"
+        },
+        {
+            "slug": "royalsearch",
+            "title": "Search",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalsearch.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsearch"
+        },
+        {
+            "slug": "royaldate",
+            "title": "Royal Date",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royaldate.webp",
+            "demo_url": "https://www.royaltechbd.com/royaldate"
+        },
+        {
+            "slug": "royalfloatsocialbuttons",
+            "title": "Float Social Buttons",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalfloatsocialbuttons.webp",
+            "demo_url": "https://www.royaltechbd.com/royalfloatsocialbuttons"
+        },
+        {
+            "slug": "royalchartpiedonut",
+            "title": "Pie Donut Chart",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalchartpiedonut.webp",
+            "demo_url": "https://www.royaltechbd.com/royalchartpiedonut"
+        },
+        {
+            "slug": "royalchartprogressbar",
+            "title": "Progress Bar",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalchartprogressbar.webp",
+            "demo_url": "https://www.royaltechbd.com/royalchartprogressbar"
+        },
+        {
+            "slug": "royalchartpieprogress",
+            "title": "Pie Progress Bar",
+            "type": "widget",
+            "tier": "free",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalchartpieprogress.webp",
+            "demo_url": "https://www.royaltechbd.com/royalchartpieprogress"
+        },
+        {
+            "slug": "royalsocialshare",
+            "title": "Social Share",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalsocialshare.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsocialshare"
+        },
+        {
+            "slug": "royalcontactform7",
+            "title": "Contact Form 7",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalcontactform7.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcontactform7"
+        },
+        {
+            "slug": "royalcalendly",
+            "title": "Calendly",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalcalendly.webp",
+            "demo_url": "https://www.royaltechbd.com/royalcalendly"
+        },
+        {
+            "slug": "royalvisitorsstats",
+            "title": "Visitors Stats",
+            "type": "widget",
+            "tier": "free",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalvisitorsstats.webp",
+            "demo_url": "https://www.royaltechbd.com/royalvisitorsstats"
+        },
+        {
+            "slug": "royalsocialfacebookfeed",
+            "title": "Facebook Feed",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalsocialfacebookfeed.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsocialfacebookfeed"
+        },
+        {
+            "slug": "royalsocialinstagramfeed",
+            "title": "Instagram Feed",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalsocialinstagramfeed.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsocialinstagramfeed"
+        },
+        {
+            "slug": "royalsociallinkedinfeed",
+            "title": "LinkedIn Feed",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalsociallinkedinfeed.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsociallinkedinfeed"
+        },
+        {
+            "slug": "royalsocialtwitterfeed",
+            "title": "Twitter Feed",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalsocialtwitterfeed.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsocialtwitterfeed"
+        },
+        {
+            "slug": "royalyoutubevideo",
+            "title": "YouTube Video",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalyoutubevideo.webp",
+            "demo_url": "https://www.royaltechbd.com/royalyoutubevideo"
+        },
+        {
+            "slug": "royalwooproductsingle",
+            "title": "Single Product",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwooproductsingle.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwooproductsingle"
+        },
+        {
+            "slug": "royalwooproductsgrid",
+            "title": "Products Grid",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwooproductsgrid.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwooproductsgrid"
+        },
+        {
+            "slug": "royalwoocategory",
+            "title": "Products Category",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoocategory.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoocategory"
+        },
+        {
+            "slug": "royalwooproductscarousel",
+            "title": "Products Carousel",
+            "type": "widget",
+            "tier": "free",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwooproductscarousel.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwooproductscarousel"
+        },
+        {
+            "slug": "royalfeedviewer",
+            "title": "Feed Viewer",
+            "type": "widget",
+            "tier": "free",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalfeedviewer.webp",
+            "demo_url": "https://www.royaltechbd.com/royalfeedviewer"
+        },
+        {
+            "slug": "royalschema",
+            "title": "Schema",
+            "type": "widget",
+            "tier": "free",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalschema.webp",
+            "demo_url": "https://www.royaltechbd.com/royalschema"
+        },
+        {
+            "slug": "royaladvancedtabs",
+            "title": "Advanced Tabs",
+            "type": "widget",
+            "tier": "free",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royaladvancedtabs.webp",
+            "demo_url": "https://www.royaltechbd.com/royaladvancedtabs"
+        },
+        {
+            "slug": "royalnavmenugoocy",
+            "title": "Nav Menu Goocy",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalnavmenugoocy.webp",
+            "demo_url": "https://www.royaltechbd.com/royalnavmenugoocy"
+        },
+        {
+            "slug": "royalnavmenumorph",
+            "title": "Nav Menu Morph",
+            "type": "widget",
+            "tier": "free",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalnavmenumorph.webp",
+            "demo_url": "https://www.royaltechbd.com/royalnavmenumorph"
+        },
+        {
+            "slug": "royalpostsliderfluent",
+            "title": "Fluent Post Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalpostsliderfluent.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostsliderfluent"
+        },
+        {
+            "slug": "royalpostsliderpro",
+            "title": "Pro Post Hero Skins",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalpostsliderpro.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostsliderpro"
+        },
+        {
+            "slug": "royalremotearrows",
+            "title": "Remote Arrows",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalremotearrows.webp",
+            "demo_url": "https://www.royaltechbd.com/royalremotearrows"
+        },
+        {
+            "slug": "royalremotefraction",
+            "title": "Remote Fraction",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalremotefraction.webp",
+            "demo_url": "https://www.royaltechbd.com/royalremotefraction"
+        },
+        {
+            "slug": "royalremotepagination",
+            "title": "Remote Pagination",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalremotepagination.webp",
+            "demo_url": "https://www.royaltechbd.com/royalremotepagination"
+        },
+        {
+            "slug": "royalremotethumbs",
+            "title": "Remote Thumbs",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalremotethumbs.webp",
+            "demo_url": "https://www.royaltechbd.com/royalremotethumbs"
+        },
+        {
+            "slug": "royalwoosliderhotspot",
+            "title": "Woo HotSpot Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoosliderhotspot.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoosliderhotspot"
+        },
+        {
+            "slug": "royalwoosliderexpand",
+            "title": "WooExpand Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoosliderexpand.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoosliderexpand"
+        },
+        {
+            "slug": "royalwoosliderstand",
+            "title": "WooStand Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoosliderstand.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoosliderstand"
+        },
+        {
+            "slug": "royalsliderring",
+            "title": "Ring & Orbit Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderring.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderring"
+        },
+        {
+            "slug": "royalsliderfluid",
+            "title": "Fluid & Floating Hero",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderfluid.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderfluid"
+        },
+        {
+            "slug": "royalslideragency",
+            "title": "Agency & Portfolio Hero",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslideragency.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslideragency"
+        },
+        {
+            "slug": "royalsliderparallax",
+            "title": "Parallax & Reveal Effects",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderparallax.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderparallax"
+        },
+        {
+            "slug": "royalslidercardsstack",
+            "title": "Cards Stack Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslidercardsstack.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslidercardsstack"
+        },
+        {
+            "slug": "royalsliderturnar",
+            "title": "Turnar 3D Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderturnar.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderturnar"
+        },
+        {
+            "slug": "royalsliderpanorama",
+            "title": "Panorama 3D Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalsliderpanorama.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsliderpanorama"
+        },
+        {
+            "slug": "royalslidercrossroad",
+            "title": "CrossRoad Dual Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslidercrossroad.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslidercrossroad"
+        },
+        {
+            "slug": "royaldiagramexplainer",
+            "title": "Diagram Explainer",
+            "type": "widget",
+            "tier": "pro",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royaldiagramexplainer.webp",
+            "demo_url": "https://www.royaltechbd.com/royaldiagramexplainer"
+        },
+        {
+            "slug": "royalroadmapplayer",
+            "title": "Roadmap Player",
+            "type": "widget",
+            "tier": "pro",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalroadmapplayer.webp",
+            "demo_url": "https://www.royaltechbd.com/royalroadmapplayer"
+        },
+        {
+            "slug": "royalprogressmatrix",
+            "title": "Progress Matrix",
+            "type": "widget",
+            "tier": "pro",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalprogressmatrix.webp",
+            "demo_url": "https://www.royaltechbd.com/royalprogressmatrix"
+        },
+        {
+            "slug": "royalrouteexplainer",
+            "title": "Route Explainer",
+            "type": "widget",
+            "tier": "pro",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalrouteexplainer.webp",
+            "demo_url": "https://www.royaltechbd.com/royalrouteexplainer"
+        },
+        {
+            "slug": "royalform",
+            "title": "Form",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalform.webp",
+            "demo_url": "https://www.royaltechbd.com/royalform"
+        },
+        {
+            "slug": "royalheadingscrolltrigger",
+            "title": "Heading Scroll Trigger",
+            "type": "widget",
+            "tier": "pro",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalheadingscrolltrigger.webp",
+            "demo_url": "https://www.royaltechbd.com/royalheadingscrolltrigger"
+        },
+        {
+            "slug": "royalsvgdrawer",
+            "title": "SVG Drawer",
+            "type": "widget",
+            "tier": "pro",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalsvgdrawer.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsvgdrawer"
+        },
+        {
+            "slug": "royalslidercircle",
+            "title": "Circle Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "thumb_path": "widgets/royalslidercircle.webp",
+            "demo_url": "https://www.royaltechbd.com/royalslidercircle"
+        },
+        {
+            "slug": "royalpostmetaquery",
+            "title": "Post Meta Query",
+            "type": "widget",
+            "tier": "pro",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalpostmetaquery.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostmetaquery"
+        },
+        {
+            "slug": "royalpostmetavalue",
+            "title": "Post Meta Value",
+            "type": "widget",
+            "tier": "pro",
+            "category": "blog-storytelling",
+            "thumb_path": "widgets/royalpostmetavalue.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpostmetavalue"
+        },
+        {
+            "slug": "royalsearchajax",
+            "title": "Search Ajax",
+            "type": "widget",
+            "tier": "pro",
+            "category": "header-footer-nav",
+            "thumb_path": "widgets/royalsearchajax.webp",
+            "demo_url": "https://www.royaltechbd.com/royalsearchajax"
+        },
+        {
+            "slug": "royalyoutubechannel",
+            "title": "YouTube Channel",
+            "type": "widget",
+            "tier": "pro",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalyoutubechannel.webp",
+            "demo_url": "https://www.royaltechbd.com/royalyoutubechannel"
+        },
+        {
+            "slug": "royalmap",
+            "title": "Map",
+            "type": "widget",
+            "tier": "pro",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalmap.webp",
+            "demo_url": "https://www.royaltechbd.com/royalmap"
+        },
+        {
+            "slug": "royalmasonry",
+            "title": "Masonry",
+            "type": "widget",
+            "tier": "pro",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalmasonry.webp",
+            "demo_url": "https://www.royaltechbd.com/royalmasonry"
+        },
+        {
+            "slug": "royalanimatedshapedivider",
+            "title": "Animated Shape Divider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "headings-typography",
+            "thumb_path": "widgets/royalanimatedshapedivider.webp",
+            "demo_url": "https://www.royaltechbd.com/royalanimatedshapedivider"
+        },
+        {
+            "slug": "royal_geomotion",
+            "title": "Royal GeoMotion",
+            "type": "widget",
+            "tier": "pro",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royal_geomotion.webp",
+            "demo_url": "https://www.royaltechbd.com/royalgeomotion"
+        },
+        {
+            "slug": "royalstorelocator",
+            "title": "Store Locator",
+            "type": "widget",
+            "tier": "pro",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalstorelocator.webp",
+            "demo_url": "https://www.royaltechbd.com/royalstorelocator"
+        },
+        {
+            "slug": "royalbrancheslocator",
+            "title": "Branches Locator",
+            "type": "widget",
+            "tier": "pro",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalbrancheslocator.webp",
+            "demo_url": "https://www.royaltechbd.com/royalbrancheslocator"
+        },
+        {
+            "slug": "royalorganogram",
+            "title": "Organogram",
+            "type": "widget",
+            "tier": "pro",
+            "category": "charts-maps-data",
+            "thumb_path": "widgets/royalorganogram.webp",
+            "demo_url": "https://www.royaltechbd.com/royalorganogram"
+        },
+        {
+            "slug": "royalwoominicart",
+            "title": "Woo Mini Cart",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoominicart.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoominicart"
+        },
+        {
+            "slug": "royalwooslidernike",
+            "title": "Products Nike Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwooslidernike.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwooslidernike"
+        },
+        {
+            "slug": "royalwoosliderblur",
+            "title": "Products Blur Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoosliderblur.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoosliderblur"
+        },
+        {
+            "slug": "royalwoosliderbuck",
+            "title": "Products Buck Slider",
+            "type": "widget",
+            "tier": "pro",
+            "category": "woocommerce",
+            "thumb_path": "widgets/royalwoosliderbuck.webp",
+            "demo_url": "https://www.royaltechbd.com/royalwoosliderbuck"
+        },
+        {
+            "slug": "royalproperty",
+            "title": "Royal Property",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalproperty.webp",
+            "demo_url": "https://www.royaltechbd.com/royalproperty"
+        },
+        {
+            "slug": "royalauto",
+            "title": "Royal Auto",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalauto.webp",
+            "demo_url": "https://www.royaltechbd.com/royalauto"
+        },
+        {
+            "slug": "royaljob",
+            "title": "Royal Job",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royaljob.webp",
+            "demo_url": "https://www.royaltechbd.com/royaljob"
+        },
+        {
+            "slug": "royaltravel",
+            "title": "Royal Travel",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royaltravel.webp",
+            "demo_url": "https://www.royaltechbd.com/royaltravel"
+        },
+        {
+            "slug": "royalpopup",
+            "title": "Modal Popup",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalpopup.webp",
+            "demo_url": "https://www.royaltechbd.com/royalmodalpopup"
+        },
+        {
+            "slug": "royaloffcanvas",
+            "title": "Off-Canvas",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royaloffcanvas.webp",
+            "demo_url": "https://www.royaltechbd.com/royaloffcanvas"
+        },
+        {
+            "slug": "royallogin",
+            "title": "Login",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royallogin.webp",
+            "demo_url": "https://www.royaltechbd.com/royallogin"
+        },
+        {
+            "slug": "royalpricingcomparison",
+            "title": "Pricing Comparison",
+            "type": "widget",
+            "tier": "pro",
+            "category": "forms-marketing-utility",
+            "thumb_path": "widgets/royalpricingcomparison.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpricingcomparison"
+        },
+        {
+            "slug": "royal360degreeview",
+            "title": "360 Degree View",
+            "type": "widget",
+            "tier": "pro",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royal360degreeview.webp",
+            "demo_url": "https://www.royaltechbd.com/royal360degreeview"
+        },
+        {
+            "slug": "royalflipbook",
+            "title": "Flipbook",
+            "type": "widget",
+            "tier": "pro",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalflipbook.webp",
+            "demo_url": "https://www.royaltechbd.com/royalflipbook"
+        },
+        {
+            "slug": "royalpdfviewer",
+            "title": "Pdf Viewer",
+            "type": "widget",
+            "tier": "pro",
+            "category": "media-gallery-cards",
+            "thumb_path": "widgets/royalpdfviewer.webp",
+            "demo_url": "https://www.royaltechbd.com/royalpdfviewer"
+        },
+        {
+            "slug": "royalgooglereviews",
+            "title": "Google Reviews",
+            "type": "widget",
+            "tier": "pro",
+            "category": "social-feeds-reviews",
+            "thumb_path": "widgets/royalgooglereviews.webp",
+            "demo_url": "https://www.royaltechbd.com/royalgooglereviews"
+        },
+        {
+            "slug": "royal-product-title",
+            "title": "Product Title",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-title.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-title"
+        },
+        {
+            "slug": "royal-product-price",
+            "title": "Product Price",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-price.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-price"
+        },
+        {
+            "slug": "royal-product-gallery",
+            "title": "Product Gallery",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-gallery.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-gallery"
+        },
+        {
+            "slug": "royal-product-add-to-cart",
+            "title": "Add to Cart",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-add-to-cart.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-add-to-cart"
+        },
+        {
+            "slug": "royal-product-tabs",
+            "title": "Product Tabs",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-tabs.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-tabs"
+        },
+        {
+            "slug": "royal-product-short-desc",
+            "title": "Short Description",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-short-desc.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-short-desc"
+        },
+        {
+            "slug": "royal-product-meta",
+            "title": "Product Meta",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-meta.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-meta"
+        },
+        {
+            "slug": "royal-product-rating",
+            "title": "Product Rating",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-rating.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-rating"
+        },
+        {
+            "slug": "royal-product-reviews",
+            "title": "Product Reviews",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-reviews.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-reviews"
+        },
+        {
+            "slug": "royal-product-stock",
+            "title": "Stock Status",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-stock.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-stock"
+        },
+        {
+            "slug": "royal-product-content",
+            "title": "Product Content",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-content.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-content"
+        },
+        {
+            "slug": "royal-product-additional-info",
+            "title": "Additional Information",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-additional-info.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-additional-info"
+        },
+        {
+            "slug": "royal-product-navigation",
+            "title": "Product Navigation",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-navigation.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-navigation"
+        },
+        {
+            "slug": "royal-product-sale-badge",
+            "title": "Sale Badge",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-sale-badge.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-sale-badge"
+        },
+        {
+            "slug": "royal-product-upsells",
+            "title": "Upsell Products",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-upsells.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-upsells"
+        },
+        {
+            "slug": "royal-product-related",
+            "title": "Related Products",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-related.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-related"
+        },
+        {
+            "slug": "royal-product-sharing",
+            "title": "Product Sharing",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-sharing.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-sharing"
+        },
+        {
+            "slug": "royal-product-sku",
+            "title": "Product SKU",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-product-sku.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-product-sku"
+        },
+        {
+            "slug": "royal-wc-hook",
+            "title": "WooCommerce Hook",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-wc-hook.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-wc-hook"
+        },
+        {
+            "slug": "royal-wc-breadcrumb",
+            "title": "Breadcrumb",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-wc-breadcrumb.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-wc-breadcrumb"
+        },
+        {
+            "slug": "royal-wc-notices",
+            "title": "WC Notices",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-wc-notices.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-wc-notices"
+        },
+        {
+            "slug": "royal-archive-products",
+            "title": "Archive Products",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-archive-products.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-archive-products"
+        },
+        {
+            "slug": "royal-archive-orderby",
+            "title": "Orderby",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-archive-orderby.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-archive-orderby"
+        },
+        {
+            "slug": "royal-archive-result-count",
+            "title": "Result Count",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-archive-result-count.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-archive-result-count"
+        },
+        {
+            "slug": "royal-archive-description",
+            "title": "Archive Description",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-archive-description.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-archive-description"
+        },
+        {
+            "slug": "royal-wc-title",
+            "title": "WooCommerce Title",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-wc-title.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-wc-title"
+        },
+        {
+            "slug": "royal-active-filters",
+            "title": "Active Filters",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-product-shop",
+            "thumb_path": "layout/royal-active-filters.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-active-filters"
+        },
+        {
+            "slug": "royal-cart-table",
+            "title": "Cart Table",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-cart-table.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-cart-table"
+        },
+        {
+            "slug": "royal-cart-totals",
+            "title": "Cart Totals",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-cart-totals.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-cart-totals"
+        },
+        {
+            "slug": "royal-empty-cart",
+            "title": "Empty Cart",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-empty-cart.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-empty-cart"
+        },
+        {
+            "slug": "royal-checkout-billing",
+            "title": "Billing Details",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-checkout-billing.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-checkout-billing"
+        },
+        {
+            "slug": "royal-checkout-shipping",
+            "title": "Shipping Details",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-checkout-shipping.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-checkout-shipping"
+        },
+        {
+            "slug": "royal-checkout-coupon",
+            "title": "Coupon Form",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-checkout-coupon.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-checkout-coupon"
+        },
+        {
+            "slug": "royal-checkout-login",
+            "title": "Checkout Login",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-checkout-login.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-checkout-login"
+        },
+        {
+            "slug": "royal-checkout-order-review",
+            "title": "Order Review",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-checkout-order-review.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-checkout-order-review"
+        },
+        {
+            "slug": "royal-checkout-payment",
+            "title": "Payment Methods",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-checkout-payment.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-checkout-payment"
+        },
+        {
+            "slug": "royal-account-navigation",
+            "title": "Account Navigation",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-account-navigation.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-account-navigation"
+        },
+        {
+            "slug": "royal-account-content",
+            "title": "Account Content",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-account-content.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-account-content"
+        },
+        {
+            "slug": "royal-account-login",
+            "title": "Login Form",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-account-login.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-account-login"
+        },
+        {
+            "slug": "royal-account-register",
+            "title": "Register Form",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-account-register.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-account-register"
+        },
+        {
+            "slug": "royal-account-lost-password",
+            "title": "Lost Password Form",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-account-lost-password.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-account-lost-password"
+        },
+        {
+            "slug": "royal-ty-order-message",
+            "title": "Order Message",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-ty-order-message.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-ty-order-message"
+        },
+        {
+            "slug": "royal-ty-order-overview",
+            "title": "Order Overview",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-ty-order-overview.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-ty-order-overview"
+        },
+        {
+            "slug": "royal-ty-order-details",
+            "title": "Order Details",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-ty-order-details.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-ty-order-details"
+        },
+        {
+            "slug": "royal-ty-order-meta",
+            "title": "Order Meta",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-ty-order-meta.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-ty-order-meta"
+        },
+        {
+            "slug": "royal-ty-customer-details",
+            "title": "Customer Details",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-ty-customer-details.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-ty-customer-details"
+        },
+        {
+            "slug": "royal-ty-payment-instructions",
+            "title": "Payment Instructions",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-cart-checkout",
+            "thumb_path": "layout/royal-ty-payment-instructions.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-ty-payment-instructions"
+        },
+        {
+            "slug": "royal-post-title",
+            "title": "Post Title",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-title.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-title"
+        },
+        {
+            "slug": "royal-post-content",
+            "title": "Post Content",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-content.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-content"
+        },
+        {
+            "slug": "royal-post-image",
+            "title": "Featured Image",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-image.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-image"
+        },
+        {
+            "slug": "royal-post-author-bio",
+            "title": "Author Bio",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-author-bio.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-author-bio"
+        },
+        {
+            "slug": "royal-post-categories",
+            "title": "Post Categories",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-categories.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-categories"
+        },
+        {
+            "slug": "royal-post-tags",
+            "title": "Post Tags",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-tags.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-tags"
+        },
+        {
+            "slug": "royal-post-comments",
+            "title": "Post Comments",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-comments.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-comments"
+        },
+        {
+            "slug": "royal-post-navigation",
+            "title": "Post Navigation",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-navigation.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-navigation"
+        },
+        {
+            "slug": "royal-post-date",
+            "title": "Post Date",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-date.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-date"
+        },
+        {
+            "slug": "royal-post-excerpt",
+            "title": "Post Excerpt",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-excerpt.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-excerpt"
+        },
+        {
+            "slug": "royal-post-author",
+            "title": "Post Author",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-post-author.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-post-author"
+        },
+        {
+            "slug": "royal-blog-archive",
+            "title": "Blog Archive",
+            "type": "layout",
+            "tier": "free",
+            "category": "layout-post-archive",
+            "thumb_path": "layout/royal-blog-archive.webp",
+            "demo_url": "https://demo.royaltechbd.com/royal-blog-archive"
+        },
+        {
+            "slug": "royalaos",
+            "title": "AOS Animation",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalaos.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalaos"
+        },
+        {
+            "slug": "royalcounterz",
+            "title": "Counterz",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalcounterz.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalcounterz"
+        },
+        {
+            "slug": "royalcustomcss",
+            "title": "Custom CSS",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalcustomcss.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalcustomcss"
+        },
+        {
+            "slug": "royalequalheight",
+            "title": "Equal Height",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalequalheight.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalequalheight"
+        },
+        {
+            "slug": "royalfloatingeffects",
+            "title": "Floating Effects",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalfloatingeffects.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalfloatingeffects"
+        },
+        {
+            "slug": "royalgridlayer",
+            "title": "Grid Layer",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalgridlayer.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalgridlayer"
+        },
+        {
+            "slug": "royalhoveranimator",
+            "title": "Hover Animator",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalhoveranimator.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalhoveranimator"
+        },
+        {
+            "slug": "royallivecopy",
+            "title": "Live Copy",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royallivecopy.webp",
+            "demo_url": "https://demo.royaltechbd.com/royallivecopy"
+        },
+        {
+            "slug": "royaloverlayunderlay",
+            "title": "Overlay Underlay",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royaloverlayunderlay.webp",
+            "demo_url": "https://demo.royaltechbd.com/royaloverlayunderlay"
+        },
+        {
+            "slug": "royaloverlayz",
+            "title": "Overlayz",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royaloverlayz.webp",
+            "demo_url": "https://demo.royaltechbd.com/royaloverlayz"
+        },
+        {
+            "slug": "royalpseudo",
+            "title": "Royal Pseudo",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalpseudo.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalpseudo"
+        },
+        {
+            "slug": "royalreadingprogressbar",
+            "title": "Reading Progress Bar",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalreadingprogressbar.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalreadingprogressbar"
+        },
+        {
+            "slug": "royalshapedivider",
+            "title": "Shape Divider",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalshapedivider.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalshapedivider"
+        },
+        {
+            "slug": "royaltextz",
+            "title": "Textz",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royaltextz.webp",
+            "demo_url": "https://demo.royaltechbd.com/royaltextz"
+        },
+        {
+            "slug": "royaltextupset",
+            "title": "Text Upset",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royaltextupset.webp",
+            "demo_url": "https://demo.royaltechbd.com/royaltextupset"
+        },
+        {
+            "slug": "royaltooltip",
+            "title": "Tooltip",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royaltooltip.webp",
+            "demo_url": "https://demo.royaltechbd.com/royaltooltip"
+        },
+        {
+            "slug": "royalvideomask",
+            "title": "Video Mask",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalvideomask.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalvideomask"
+        },
+        {
+            "slug": "royalwrapperlink",
+            "title": "Wrapper Link",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalwrapperlink.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalwrapperlink"
+        },
+        {
+            "slug": "royalgsapscrolltrigger",
+            "title": "GSAP Scroll Trigger",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalgsapscrolltrigger.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalgsapscrolltrigger"
+        },
+        {
+            "slug": "royalbackground",
+            "title": "Background",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalbackground.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalbackground"
+        },
+        {
+            "slug": "displayconditions",
+            "title": "Display Conditions",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/displayconditions.webp",
+            "demo_url": "https://demo.royaltechbd.com/displayconditions"
+        },
+        {
+            "slug": "royalmotioneffects",
+            "title": "Motion Effects",
+            "type": "extension",
+            "tier": "free",
+            "category": "extensions",
+            "thumb_path": "extensions/royalmotioneffects.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalmotioneffects"
+        },
+        {
+            "slug": "royalmagicscroll",
+            "title": "Magic Scroll",
+            "type": "extension",
+            "tier": "pro",
+            "category": "extensions",
+            "thumb_path": "extensions/royalmagicscroll.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalmagicscroll"
+        },
+        {
+            "slug": "royalstickyheader",
+            "title": "Sticky Header",
+            "type": "extension",
+            "tier": "pro",
+            "category": "extensions",
+            "thumb_path": "extensions/royalstickyheader.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalstickyheader"
+        },
+        {
+            "slug": "royalmegamenu",
+            "title": "Mega Menu",
+            "type": "extension",
+            "tier": "pro",
+            "category": "extensions",
+            "thumb_path": "extensions/royalmegamenu.webp",
+            "demo_url": "https://www.royaltechbd.com/royalmegamenu"
+        },
+        {
+            "slug": "royalscrollindicator",
+            "title": "Scroll Progress Indicator",
+            "type": "extension",
+            "tier": "pro",
+            "category": "extensions",
+            "thumb_path": "extensions/royalscrollindicator.webp",
+            "demo_url": "https://demo.royaltechbd.com/royalscrollindicator"
+        },
+        {
+            "slug": "royaladaptivebg",
+            "title": "Adaptive Background",
+            "type": "extension",
+            "tier": "pro",
+            "category": "extensions",
+            "thumb_path": "extensions/royaladaptivebg.webp",
+            "demo_url": "https://demo.royaltechbd.com/royaladaptivebg"
+        }
+    ]
+}
