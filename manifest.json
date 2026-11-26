@@ -1,26 +1,21 @@
 {
-    "version": "26.11.26.6",
-    "total": 268,
+    "version": "26.11.26.11",
+    "total": 272,
     "counts": {
-        "all": 268,
-        "widget": 182,
+        "all": 272,
+        "widget": 186,
         "layout": 59,
         "extension": 27,
-        "free": 211,
-        "pro": 57,
+        "free": 213,
+        "pro": 59,
         "categories": {
-            "sliders-hero": 28,
+            "sliders-hero": 30,
             "woocommerce": 15,
-            "layout-product-shop": 27,
-            "layout-cart-checkout": 20,
-            "layout-post-archive": 12,
+            "layout-builder": 59,
             "blog-storytelling": 18,
-            "headings-typography": 10,
-            "media-gallery-cards": 35,
+            "media-headings": 47,
             "charts-maps-data": 14,
-            "forms-marketing-utility": 33,
-            "header-footer-nav": 16,
-            "social-feeds-reviews": 13,
+            "forms-nav-social": 62,
             "extensions": 27
         }
     },
@@ -31,6 +26,18 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "blog",
+                "post",
+                "coral",
+                "folio",
+                "zinest",
+                "mercury",
+                "hero",
+                "slider",
+                "royalslider3d-core",
+                "royalpostsliders"
+            ],
             "thumb_path": "widgets/royalpostslider.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostslider"
         },
@@ -40,6 +47,18 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "rubix",
+                "vertex",
+                "fiestar",
+                "flogia",
+                "pacific",
+                "blog",
+                "post",
+                "slider",
+                "royalslider3d-core",
+                "royalpostsliders"
+            ],
             "thumb_path": "widgets/royalpostcreativeslider.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostcreativeslider"
         },
@@ -49,6 +68,16 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "woolamp",
+                "woocircle",
+                "product",
+                "slider",
+                "royalslider3d-core",
+                "royalwoosliders"
+            ],
             "thumb_path": "widgets/royalwoosliderclassic.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoosliderclassic"
         },
@@ -58,6 +87,16 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "isolate",
+                "locate",
+                "slice",
+                "split",
+                "hero",
+                "slider",
+                "royalslider3d-core",
+                "royalfreesliders"
+            ],
             "thumb_path": "widgets/royalsliderisolate.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderisolate"
         },
@@ -67,6 +106,16 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "elysium",
+                "sniper",
+                "tango",
+                "showcase",
+                "hero",
+                "slider",
+                "royalslider3d-core",
+                "royalfreesliders"
+            ],
             "thumb_path": "widgets/royalslidershowcase.webp",
             "demo_url": "https://www.royaltechbd.com/royalslidershowcase"
         },
@@ -76,6 +125,16 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "multiscroll",
+                "split",
+                "vertical",
+                "fullscreen",
+                "scroll",
+                "slider",
+                "royalslider3d-core",
+                "royalfreesliders"
+            ],
             "thumb_path": "widgets/royalmultiscroll.webp",
             "demo_url": "https://www.royaltechbd.com/royalmultiscroll"
         },
@@ -84,7 +143,16 @@
             "title": "Team",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "team",
+                "member",
+                "staff",
+                "committee",
+                "profile",
+                "card",
+                "people"
+            ],
             "thumb_path": "widgets/royalteam.webp",
             "demo_url": "https://www.royaltechbd.com/royalteam"
         },
@@ -94,6 +162,14 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "progress",
+                "skill",
+                "bar",
+                "chart",
+                "resume",
+                "portfolio"
+            ],
             "thumb_path": "widgets/royalskillbar.webp",
             "demo_url": "https://www.royaltechbd.com/royalskillbar"
         },
@@ -103,6 +179,15 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "statistic",
+                "skill",
+                "graph",
+                "bar",
+                "chart",
+                "royalchart",
+                "chart.js"
+            ],
             "thumb_path": "widgets/royalchartbar.webp",
             "demo_url": "https://www.royaltechbd.com/royalchartbar"
         },
@@ -111,7 +196,13 @@
             "title": "Royal Features",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "features",
+                "feature",
+                "royal technologies",
+                "mehdi akram"
+            ],
             "thumb_path": "widgets/royalfeatures.webp",
             "demo_url": "https://www.royaltechbd.com/royalfeatures"
         },
@@ -120,7 +211,10 @@
             "title": "Portfolio",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "portfolio"
+            ],
             "thumb_path": "widgets/royalportfolio.webp",
             "demo_url": "https://www.royaltechbd.com/royalportfolio"
         },
@@ -129,7 +223,17 @@
             "title": "Video Carousel",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "slide",
+                "carousel",
+                "animated",
+                "video",
+                "youtube",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalvideo.webp",
             "demo_url": "https://www.royaltechbd.com/royalvideo"
         },
@@ -139,6 +243,15 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "toggle",
+                "switcher",
+                "content toggle",
+                "pricing toggle",
+                "pricing table",
+                "switch",
+                "monthly yearly"
+            ],
             "thumb_path": "widgets/royalcontenttoggle.webp",
             "demo_url": "https://www.royaltechbd.com/royalcontenttoggle"
         },
@@ -147,7 +260,14 @@
             "title": "Image Accordion",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "image accordion",
+                "accordion",
+                "hover",
+                "panel",
+                "expand"
+            ],
             "thumb_path": "widgets/royalimageaccordion.webp",
             "demo_url": "https://www.royaltechbd.com/royalimageaccordion"
         },
@@ -157,6 +277,14 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "read more",
+                "unfold",
+                "expand",
+                "collapse",
+                "toggle",
+                "content"
+            ],
             "thumb_path": "widgets/royalunfold.webp",
             "demo_url": "https://www.royaltechbd.com/royalunfold"
         },
@@ -166,6 +294,16 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "steps",
+                "process",
+                "flow",
+                "workflow",
+                "timeline",
+                "step flow",
+                "stepper",
+                "roadmap"
+            ],
             "thumb_path": "widgets/royalstepflow.webp",
             "demo_url": "https://www.royaltechbd.com/royalstepflow"
         },
@@ -174,7 +312,14 @@
             "title": "WhatsApp Chat",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "whatsapp",
+                "chat",
+                "floating",
+                "button",
+                "contact"
+            ],
             "thumb_path": "widgets/royalwhatsappchat.webp",
             "demo_url": "https://www.royaltechbd.com/royalwhatsappchat"
         },
@@ -183,7 +328,15 @@
             "title": "Coupon Box",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "coupon",
+                "promo",
+                "discount",
+                "code",
+                "offer",
+                "copy"
+            ],
             "thumb_path": "widgets/royalcouponbox.webp",
             "demo_url": "https://www.royaltechbd.com/royalcouponbox"
         },
@@ -192,7 +345,15 @@
             "title": "Protected Content",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "protected",
+                "password",
+                "lock",
+                "restrict",
+                "members",
+                "private"
+            ],
             "thumb_path": "widgets/royalprotectedcontent.webp",
             "demo_url": "https://www.royaltechbd.com/royalprotectedcontent"
         },
@@ -201,7 +362,13 @@
             "title": "WPForms Styler",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "wpforms",
+                "form",
+                "styler",
+                "contact"
+            ],
             "thumb_path": "widgets/royalwpformsstyler.webp",
             "demo_url": "https://www.royaltechbd.com/royalwpformsstyler"
         },
@@ -210,7 +377,14 @@
             "title": "Fluent Forms Styler",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "fluent",
+                "fluentforms",
+                "form",
+                "styler",
+                "contact"
+            ],
             "thumb_path": "widgets/royalfluentformsstyler.webp",
             "demo_url": "https://www.royaltechbd.com/royalfluentformsstyler"
         },
@@ -220,6 +394,14 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "table",
+                "data",
+                "datatable",
+                "sortable",
+                "search",
+                "filter"
+            ],
             "thumb_path": "widgets/royaladvanceddatatable.webp",
             "demo_url": "https://www.royaltechbd.com/royaladvanceddatatable"
         },
@@ -228,7 +410,17 @@
             "title": "Audio Player",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "audio",
+                "music",
+                "player",
+                "playlist",
+                "mp3",
+                "sound",
+                "editorial",
+                "floating"
+            ],
             "thumb_path": "widgets/royalaudioplayer.webp",
             "demo_url": "https://www.royaltechbd.com/royalaudioplayer"
         },
@@ -238,6 +430,13 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "one page",
+                "scroll",
+                "fullpage",
+                "section",
+                "dot navigation"
+            ],
             "thumb_path": "widgets/royalonepagescroll.webp",
             "demo_url": "https://www.royaltechbd.com/royalonepagescroll"
         },
@@ -247,6 +446,13 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woocommerce",
+                "quick view",
+                "product",
+                "modal",
+                "popup"
+            ],
             "thumb_path": "widgets/royalwooquickview.webp",
             "demo_url": "https://www.royaltechbd.com/royalwooquickview"
         },
@@ -256,6 +462,12 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woocommerce",
+                "compare",
+                "product",
+                "table"
+            ],
             "thumb_path": "widgets/royalwoocompare.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoocompare"
         },
@@ -265,6 +477,14 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woocommerce",
+                "ajax",
+                "filter",
+                "product",
+                "category",
+                "price"
+            ],
             "thumb_path": "widgets/royalwooajaxfilter.webp",
             "demo_url": "https://www.royaltechbd.com/royalwooajaxfilter"
         },
@@ -273,7 +493,21 @@
             "title": "Royal Divider",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "divider",
+                "royal divider",
+                "shape",
+                "svg",
+                "border",
+                "animated",
+                "animation",
+                "pulse",
+                "bar",
+                "separator",
+                "line",
+                "lottie"
+            ],
             "thumb_path": "widgets/royaldivider.webp",
             "demo_url": "https://www.royaltechbd.com/royaldivider"
         },
@@ -282,7 +516,16 @@
             "title": "Animated Heading",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "fancy",
+                "typing",
+                "headline",
+                "heading",
+                "animation",
+                "typed",
+                "vticker"
+            ],
             "thumb_path": "widgets/royalheadinganimated.webp",
             "demo_url": "https://www.royaltechbd.com/royalheadinganimated"
         },
@@ -291,7 +534,12 @@
             "title": "Heading Gradient",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "gradient",
+                "heading",
+                "title"
+            ],
             "thumb_path": "widgets/royalheadinggradient.webp",
             "demo_url": "https://www.royaltechbd.com/royalheadinggradient"
         },
@@ -300,7 +548,12 @@
             "title": "Heading",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "heading",
+                "header",
+                "title"
+            ],
             "thumb_path": "widgets/royalheading.webp",
             "demo_url": "https://www.royaltechbd.com/royalheading"
         },
@@ -309,7 +562,14 @@
             "title": "Dual Header",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "dual",
+                "header",
+                "heading",
+                "double",
+                "waypoints"
+            ],
             "thumb_path": "widgets/royalheadingdual.webp",
             "demo_url": "https://www.royaltechbd.com/royalheadingdual"
         },
@@ -318,7 +578,12 @@
             "title": "Wave Text",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "wave",
+                "text",
+                "animation"
+            ],
             "thumb_path": "widgets/royalwavetext.webp",
             "demo_url": "https://www.royaltechbd.com/royalwavetext"
         },
@@ -328,6 +593,14 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "accordion",
+                "faq",
+                "tabs",
+                "toggle",
+                "columns",
+                "grid"
+            ],
             "thumb_path": "widgets/royalaccordion.webp",
             "demo_url": "https://www.royaltechbd.com/royalaccordion"
         },
@@ -336,7 +609,14 @@
             "title": "Pricing Table",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "pricing",
+                "price",
+                "table",
+                "package",
+                "plan"
+            ],
             "thumb_path": "widgets/royalpricingtable.webp",
             "demo_url": "https://www.royaltechbd.com/royalpricingtable"
         },
@@ -345,7 +625,14 @@
             "title": "Phone Call",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "call",
+                "phone",
+                "mobile",
+                "graph",
+                "product"
+            ],
             "thumb_path": "widgets/royalphonecall.webp",
             "demo_url": "https://www.royaltechbd.com/royalphonecall"
         },
@@ -354,7 +641,13 @@
             "title": "CallTo Action Box",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "call",
+                "action",
+                "call to action",
+                "cta"
+            ],
             "thumb_path": "widgets/royalcalltoactionbox.webp",
             "demo_url": "https://www.royaltechbd.com/royalcalltoactionbox"
         },
@@ -363,7 +656,12 @@
             "title": "Age Gate",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "agegate",
+                "age",
+                "gate"
+            ],
             "thumb_path": "widgets/royalagegate.webp",
             "demo_url": "https://www.royaltechbd.com/royalagegate"
         },
@@ -372,7 +670,14 @@
             "title": "Lottie Animations",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "lottie",
+                "animation",
+                "animated",
+                "image",
+                "lottie-player"
+            ],
             "thumb_path": "widgets/royallottieanimations.webp",
             "demo_url": "https://www.royaltechbd.com/royallottieanimations"
         },
@@ -381,7 +686,14 @@
             "title": "Lord Icon",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "icon",
+                "lordicon",
+                "animation",
+                "info",
+                "box"
+            ],
             "thumb_path": "widgets/royallordicon.webp",
             "demo_url": "https://www.royaltechbd.com/royallordicon"
         },
@@ -390,7 +702,14 @@
             "title": "Price List",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "price",
+                "list",
+                "menu",
+                "menu list",
+                "restaurant"
+            ],
             "thumb_path": "widgets/royalpricelist.webp",
             "demo_url": "https://www.royaltechbd.com/royalpricelist"
         },
@@ -399,7 +718,19 @@
             "title": "Preview Card",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "preview",
+                "card",
+                "price",
+                "sell",
+                "price card",
+                "creed",
+                "unnayan",
+                "program",
+                "branch",
+                "stats"
+            ],
             "thumb_path": "widgets/royalpreviewcard.webp",
             "demo_url": "https://www.royaltechbd.com/royalpreviewcard"
         },
@@ -408,7 +739,16 @@
             "title": "Profile Card",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "profile",
+                "card",
+                "team",
+                "tm",
+                "member",
+                "animated",
+                "image"
+            ],
             "thumb_path": "widgets/royalprofilecard.webp",
             "demo_url": "https://www.royaltechbd.com/royalprofilecard"
         },
@@ -417,7 +757,14 @@
             "title": "Card Maker",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "card",
+                "maker",
+                "image",
+                "generator",
+                "customizer"
+            ],
             "thumb_path": "widgets/royalcardmaker.webp",
             "demo_url": "https://www.royaltechbd.com/royalcardmaker"
         },
@@ -426,7 +773,14 @@
             "title": "Flipbox",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "flip",
+                "box",
+                "flipbox",
+                "flip box",
+                "image"
+            ],
             "thumb_path": "widgets/royalflipbox.webp",
             "demo_url": "https://www.royaltechbd.com/royalflipbox"
         },
@@ -436,6 +790,17 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "post",
+                "grid",
+                "list",
+                "carousel",
+                "slider",
+                "blog",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalpostgrid.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostgrid"
         },
@@ -445,6 +810,12 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "list",
+                "post",
+                "category",
+                "blog"
+            ],
             "thumb_path": "widgets/royalpostcategory.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostcategory"
         },
@@ -454,6 +825,15 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "blog",
+                "post",
+                "filterable",
+                "matchheight",
+                "isotope",
+                "royalisotope",
+                "imagesloaded"
+            ],
             "thumb_path": "widgets/royalpostfilterable.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostfilterable"
         },
@@ -463,6 +843,17 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "slide",
+                "slider",
+                "carousel",
+                "animated",
+                "taxonomy",
+                "tax",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royaltaxonomycarousel.webp",
             "demo_url": "https://www.royaltechbd.com/royaltaxonomycarousel"
         },
@@ -472,6 +863,11 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "breadcrumbs",
+                "bread",
+                "crumb"
+            ],
             "thumb_path": "widgets/royalbreadcrumbs.webp",
             "demo_url": "https://www.royaltechbd.com/royalbreadcrumbs"
         },
@@ -480,7 +876,12 @@
             "title": "Services",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "services",
+                "action",
+                "facility"
+            ],
             "thumb_path": "widgets/royalservices.webp",
             "demo_url": "https://www.royaltechbd.com/royalservices"
         },
@@ -489,7 +890,14 @@
             "title": "Service List",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "service",
+                "list",
+                "image",
+                "photo",
+                "feature"
+            ],
             "thumb_path": "widgets/royalservicelist.webp",
             "demo_url": "https://www.royaltechbd.com/royalservicelist"
         },
@@ -498,7 +906,14 @@
             "title": "Source Code",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "source code",
+                "source",
+                "code",
+                "highlight",
+                "prism"
+            ],
             "thumb_path": "widgets/royalsourcecode.webp",
             "demo_url": "https://www.royaltechbd.com/royalsourcecode"
         },
@@ -507,7 +922,14 @@
             "title": "Countdown",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "countdown",
+                "count down",
+                "down",
+                "timer",
+                "count"
+            ],
             "thumb_path": "widgets/royalcountdown.webp",
             "demo_url": "https://www.royaltechbd.com/royalcountdown"
         },
@@ -517,6 +939,12 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "timeline",
+                "time",
+                "schedule",
+                "year"
+            ],
             "thumb_path": "widgets/royaltimeline.webp",
             "demo_url": "https://www.royaltechbd.com/royaltimeline"
         },
@@ -525,7 +953,16 @@
             "title": "Button Effects",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "button",
+                "effects",
+                "3d",
+                "shine",
+                "glow",
+                "modern",
+                "pulse"
+            ],
             "thumb_path": "widgets/royalbuttoneffects.webp",
             "demo_url": "https://www.royaltechbd.com/royalbuttoneffects"
         },
@@ -535,6 +972,11 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "html",
+                "table",
+                "tbl"
+            ],
             "thumb_path": "widgets/royalhtmltable.webp",
             "demo_url": "https://www.royaltechbd.com/royalhtmltable"
         },
@@ -543,7 +985,14 @@
             "title": "Item Lists",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "item",
+                "list",
+                "item list",
+                "icon",
+                "bullet"
+            ],
             "thumb_path": "widgets/royalitemlists.webp",
             "demo_url": "https://www.royaltechbd.com/royalitemlists"
         },
@@ -552,7 +1001,17 @@
             "title": "Country Flag",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "flag",
+                "country",
+                "svg",
+                "ip",
+                "visitor",
+                "detect",
+                "github",
+                "remote"
+            ],
             "thumb_path": "widgets/royalcountryflag.webp",
             "demo_url": "https://www.royaltechbd.com/royalcountryflag"
         },
@@ -561,7 +1020,15 @@
             "title": "Review",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "review",
+                "star",
+                "rating",
+                "comment",
+                "feedback",
+                "testimonial"
+            ],
             "thumb_path": "widgets/royalreview.webp",
             "demo_url": "https://www.royaltechbd.com/royalreview"
         },
@@ -570,7 +1037,14 @@
             "title": "Opening Hours",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "opening",
+                "business",
+                "hour",
+                "hours",
+                "info"
+            ],
             "thumb_path": "widgets/royalopeninghours.webp",
             "demo_url": "https://www.royaltechbd.com/royalopeninghours"
         },
@@ -579,7 +1053,17 @@
             "title": "Event Calendar",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "event-calendar",
+                "event",
+                "calender",
+                "time",
+                "shedule",
+                "google",
+                "royal-fullcalendar",
+                "royal-fullcalendar-locales"
+            ],
             "thumb_path": "widgets/royaleventcalendar.webp",
             "demo_url": "https://www.royaltechbd.com/royaleventcalendar"
         },
@@ -589,6 +1073,10 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "user",
+                "counter"
+            ],
             "thumb_path": "widgets/royalusercounter.webp",
             "demo_url": "https://www.royaltechbd.com/royalusercounter"
         },
@@ -597,7 +1085,14 @@
             "title": "World Clock",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "world",
+                "clock",
+                "time",
+                "timezone",
+                "luxon"
+            ],
             "thumb_path": "widgets/royalclockworld.webp",
             "demo_url": "https://www.royaltechbd.com/royalclockworld"
         },
@@ -606,7 +1101,13 @@
             "title": "Domain Search",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "domain",
+                "supersite",
+                "reseller club",
+                "resell"
+            ],
             "thumb_path": "widgets/royaldomainsearch.webp",
             "demo_url": "https://www.royaltechbd.com/royaldomainsearch"
         },
@@ -615,7 +1116,16 @@
             "title": "Royal Ads",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "ads",
+                "random",
+                "code",
+                "image",
+                "banner",
+                "popup",
+                "royal-addons-for-elementor"
+            ],
             "thumb_path": "widgets/royalads.webp",
             "demo_url": "https://www.royaltechbd.com/royalads"
         },
@@ -624,7 +1134,12 @@
             "title": "Spotify",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "spotify",
+                "music",
+                "song"
+            ],
             "thumb_path": "widgets/royalspotify.webp",
             "demo_url": "https://www.royaltechbd.com/royalspotify"
         },
@@ -634,6 +1149,11 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "weather",
+                "map",
+                "open"
+            ],
             "thumb_path": "widgets/royalweathermap.webp",
             "demo_url": "https://www.royaltechbd.com/royalweathermap"
         },
@@ -642,7 +1162,18 @@
             "title": "Testimonial Carousel",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "slide",
+                "team",
+                "testimonial",
+                "carousel",
+                "animated",
+                "image",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royaltestimonialcarousel.webp",
             "demo_url": "https://www.royaltechbd.com/royaltestimonialcarousel"
         },
@@ -651,7 +1182,14 @@
             "title": "Image Hotspots",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "image",
+                "hotspot",
+                "hot",
+                "spot",
+                "hotspots"
+            ],
             "thumb_path": "widgets/royalimagehotspots.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagehotspots"
         },
@@ -660,7 +1198,15 @@
             "title": "Light Box",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "lightbox",
+                "light",
+                "box",
+                "video",
+                "link",
+                "button"
+            ],
             "thumb_path": "widgets/royallightbox.webp",
             "demo_url": "https://www.royaltechbd.com/royallightbox"
         },
@@ -669,7 +1215,14 @@
             "title": "Image Box",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "image",
+                "box",
+                "feature",
+                "photo",
+                "visual"
+            ],
             "thumb_path": "widgets/royalimagebox.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagebox"
         },
@@ -678,7 +1231,16 @@
             "title": "Featured Card",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "featured",
+                "card",
+                "project",
+                "service",
+                "step",
+                "count",
+                "number"
+            ],
             "thumb_path": "widgets/royalfeaturedcard.webp",
             "demo_url": "https://www.royaltechbd.com/royalfeaturedcard"
         },
@@ -687,7 +1249,13 @@
             "title": "Image Compare",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "compare",
+                "image",
+                "before",
+                "after"
+            ],
             "thumb_path": "widgets/royalimagecompare.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagecompare"
         },
@@ -696,7 +1264,17 @@
             "title": "Image Compare2",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "compare",
+                "image",
+                "before",
+                "after",
+                "jquery-event-move",
+                "twentytwenty",
+                "imagesloaded",
+                "royalimagecomparison"
+            ],
             "thumb_path": "widgets/royalimagecompare2.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagecompare2"
         },
@@ -705,7 +1283,17 @@
             "title": "Image Carousel",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "slide",
+                "slider",
+                "carousel",
+                "animated",
+                "image",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalimagecarousel.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagecarousel"
         },
@@ -714,7 +1302,15 @@
             "title": "Image Gallery",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "image",
+                "gallery",
+                "infinite",
+                "scroll",
+                "magnific-popup",
+                "royalmagnificpopup"
+            ],
             "thumb_path": "widgets/royalimagegallery.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagegallery"
         },
@@ -723,7 +1319,12 @@
             "title": "Image Gallery Sleek",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "gallery",
+                "image",
+                "sleek"
+            ],
             "thumb_path": "widgets/royalimagegallerysleek.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagegallerysleek"
         },
@@ -732,7 +1333,12 @@
             "title": "Carousel 3D Image",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "3d",
+                "slider",
+                "carousel"
+            ],
             "thumb_path": "widgets/royalimagecarousel3d.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagecarousel3d"
         },
@@ -741,7 +1347,12 @@
             "title": "Image Hover Effect",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "hover",
+                "image",
+                "effect"
+            ],
             "thumb_path": "widgets/royalimagehovereffect.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagehovereffect"
         },
@@ -750,7 +1361,17 @@
             "title": "Image Collage",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "collage",
+                "image",
+                "parallax",
+                "mosaic",
+                "tilt",
+                "hero",
+                "interactive",
+                "float"
+            ],
             "thumb_path": "widgets/royalimagecollage.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagecollage"
         },
@@ -759,7 +1380,13 @@
             "title": "Image Stack",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "image",
+                "stack",
+                "icon",
+                "group"
+            ],
             "thumb_path": "widgets/royalimagestack.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagestack"
         },
@@ -769,6 +1396,15 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "infinite",
+                "scroll",
+                "marquee",
+                "ticker",
+                "partner",
+                "logo",
+                "carousel"
+            ],
             "thumb_path": "widgets/royalinfinitescroll.webp",
             "demo_url": "https://www.royaltechbd.com/royalinfinitescroll"
         },
@@ -777,7 +1413,13 @@
             "title": "Image Scroll",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "link",
+                "image",
+                "scroll",
+                "imagesloaded"
+            ],
             "thumb_path": "widgets/royalimagescroll.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagescroll"
         },
@@ -786,7 +1428,19 @@
             "title": "Image Grid",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "grid",
+                "image",
+                "gallery",
+                "filter",
+                "magnific-popup",
+                "masonry",
+                "isotope",
+                "royalmasonry",
+                "royalisotope",
+                "royalmagnificpopup"
+            ],
             "thumb_path": "widgets/royalimagegrid.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagegrid"
         },
@@ -795,7 +1449,11 @@
             "title": "Image Mask",
             "type": "widget",
             "tier": "free",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "mask",
+                "image"
+            ],
             "thumb_path": "widgets/royalimagemask.webp",
             "demo_url": "https://www.royaltechbd.com/royalimagemask"
         },
@@ -805,6 +1463,14 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "content",
+                "slider",
+                "carousel",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalcontentslider.webp",
             "demo_url": "https://www.royaltechbd.com/royalcontentslider"
         },
@@ -814,6 +1480,15 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "dragon",
+                "slider",
+                "carousel",
+                "royaltechuikit",
+                "gsap",
+                "splittext",
+                "royalanime"
+            ],
             "thumb_path": "widgets/royalsliderdragon.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderdragon"
         },
@@ -823,6 +1498,17 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "general",
+                "crelly",
+                "meteor",
+                "slider",
+                "carousel",
+                "royaltechuikit",
+                "gsap",
+                "splittext",
+                "royalanime"
+            ],
             "thumb_path": "widgets/royalslidergeneral.webp",
             "demo_url": "https://www.royaltechbd.com/royalslidergeneral"
         },
@@ -832,6 +1518,11 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "landing",
+                "slider",
+                "carousel"
+            ],
             "thumb_path": "widgets/royalsliderlanding.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderlanding"
         },
@@ -841,6 +1532,11 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "slide",
+                "image",
+                "nature"
+            ],
             "thumb_path": "widgets/royalslidernatural.webp",
             "demo_url": "https://www.royaltechbd.com/royalslidernatural"
         },
@@ -850,6 +1546,13 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "slide",
+                "every",
+                "any",
+                "swiper",
+                "royal-addons-for-elementor"
+            ],
             "thumb_path": "widgets/royalslideeverything.webp",
             "demo_url": "https://www.royaltechbd.com/royalslideeverything"
         },
@@ -859,6 +1562,16 @@
             "type": "widget",
             "tier": "free",
             "category": "sliders-hero",
+            "keywords": [
+                "slide",
+                "slider",
+                "royal slide",
+                "templates",
+                "woodmart",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalslides.webp",
             "demo_url": "https://www.royaltechbd.com/royalslides"
         },
@@ -867,7 +1580,12 @@
             "title": "Site Title",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "site",
+                "title",
+                "text"
+            ],
             "thumb_path": "widgets/royalsitetitle.webp",
             "demo_url": "https://www.royaltechbd.com/royalsitetitle"
         },
@@ -876,7 +1594,12 @@
             "title": "Site Logo",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "site",
+                "title",
+                "logo"
+            ],
             "thumb_path": "widgets/royalsitelogo.webp",
             "demo_url": "https://www.royaltechbd.com/royalsitelogo"
         },
@@ -885,7 +1608,12 @@
             "title": "Site Tagline",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "site",
+                "tag",
+                "line"
+            ],
             "thumb_path": "widgets/royalsitetagline.webp",
             "demo_url": "https://www.royaltechbd.com/royalsitetagline"
         },
@@ -894,7 +1622,13 @@
             "title": "Nav Menu",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "nav",
+                "menu",
+                "desktop",
+                "dropdown"
+            ],
             "thumb_path": "widgets/royalnavmenu.webp",
             "demo_url": "https://www.royaltechbd.com/royalnavmenu"
         },
@@ -903,7 +1637,13 @@
             "title": "Vertical Nav Menu",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "nav",
+                "menu",
+                "vertical",
+                "navigation"
+            ],
             "thumb_path": "widgets/royalnavmenuvertical.webp",
             "demo_url": "https://www.royaltechbd.com/royalnavmenu"
         },
@@ -912,7 +1652,18 @@
             "title": "Nav Menu Mobile",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "nav",
+                "menu",
+                "mobile",
+                "dropdown",
+                "off",
+                "canvas",
+                "offcanvas",
+                "sidebar",
+                "template"
+            ],
             "thumb_path": "widgets/royalnavmenumobile.webp",
             "demo_url": "https://www.royaltechbd.com/royalnavmenumobile"
         },
@@ -921,7 +1672,13 @@
             "title": "Nav Menu Full Blob",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "nav",
+                "menu",
+                "blob",
+                "dropdown"
+            ],
             "thumb_path": "widgets/royalnavmenufullblob.webp",
             "demo_url": "https://www.royaltechbd.com/royalnavmenufullblob"
         },
@@ -930,7 +1687,13 @@
             "title": "News Ticker",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "ticker",
+                "post",
+                "news",
+                "bracking"
+            ],
             "thumb_path": "widgets/royalticker.webp",
             "demo_url": "https://www.royaltechbd.com/royalticker"
         },
@@ -939,7 +1702,12 @@
             "title": "Copyright",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "copyright",
+                "text",
+                "copy right"
+            ],
             "thumb_path": "widgets/royalcopyright.webp",
             "demo_url": "https://www.royaltechbd.com/royalcopyright"
         },
@@ -948,7 +1716,15 @@
             "title": "Scroll To Top",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "scroll",
+                "top",
+                "to top",
+                "back to top",
+                "progress",
+                "rocket"
+            ],
             "thumb_path": "widgets/royalscrolltotop.webp",
             "demo_url": "https://www.royaltechbd.com/royalscrolltotop"
         },
@@ -957,7 +1733,14 @@
             "title": "Preloader",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "preloader",
+                "loader",
+                "pre loader",
+                "spin",
+                "spiner"
+            ],
             "thumb_path": "widgets/royalpreloader.webp",
             "demo_url": "https://www.royaltechbd.com/royalpreloader"
         },
@@ -966,7 +1749,14 @@
             "title": "Prayer Times",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "prayer",
+                "times",
+                "islam",
+                "salah",
+                "namaz"
+            ],
             "thumb_path": "widgets/royalprayertimes.webp",
             "demo_url": "https://www.royaltechbd.com/royalprayertimes"
         },
@@ -975,7 +1765,13 @@
             "title": "Zakat Calculator",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "zakat",
+                "calculator",
+                "islamic",
+                "finance"
+            ],
             "thumb_path": "widgets/royalzakatcalculator.webp",
             "demo_url": "https://www.royaltechbd.com/royalzakatcalculator"
         },
@@ -984,7 +1780,12 @@
             "title": "Search",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "site",
+                "search",
+                "find"
+            ],
             "thumb_path": "widgets/royalsearch.webp",
             "demo_url": "https://www.royaltechbd.com/royalsearch"
         },
@@ -993,7 +1794,17 @@
             "title": "Royal Date",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "date",
+                "calendar",
+                "bengali",
+                "hijri",
+                "clock",
+                "time",
+                "location",
+                "maghrib"
+            ],
             "thumb_path": "widgets/royaldate.webp",
             "demo_url": "https://www.royaltechbd.com/royaldate"
         },
@@ -1002,7 +1813,15 @@
             "title": "Float Social Buttons",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "float",
+                "social",
+                "buttons",
+                "advanced",
+                "corner",
+                "edge"
+            ],
             "thumb_path": "widgets/royalfloatsocialbuttons.webp",
             "demo_url": "https://www.royaltechbd.com/royalfloatsocialbuttons"
         },
@@ -1012,6 +1831,15 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "pie",
+                "donut",
+                "chart",
+                "graph",
+                "product",
+                "royalchart",
+                "chart.js"
+            ],
             "thumb_path": "widgets/royalchartpiedonut.webp",
             "demo_url": "https://www.royaltechbd.com/royalchartpiedonut"
         },
@@ -1021,6 +1849,15 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "progress",
+                "bar",
+                "goal",
+                "milestone",
+                "campaign",
+                "tracker",
+                "percent"
+            ],
             "thumb_path": "widgets/royalchartprogressbar.webp",
             "demo_url": "https://www.royaltechbd.com/royalchartprogressbar"
         },
@@ -1030,6 +1867,13 @@
             "type": "widget",
             "tier": "free",
             "category": "charts-maps-data",
+            "keywords": [
+                "pie",
+                "chart",
+                "progress",
+                "persentage",
+                "animation"
+            ],
             "thumb_path": "widgets/royalchartpieprogress.webp",
             "demo_url": "https://www.royaltechbd.com/royalchartpieprogress"
         },
@@ -1038,7 +1882,16 @@
             "title": "Social Share",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "social",
+                "share",
+                "facebook",
+                "twitter",
+                "instagram",
+                "linkedin",
+                "sharer"
+            ],
             "thumb_path": "widgets/royalsocialshare.webp",
             "demo_url": "https://www.royaltechbd.com/royalsocialshare"
         },
@@ -1047,7 +1900,13 @@
             "title": "Contact Form 7",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "contact",
+                "form",
+                "7",
+                "cf7"
+            ],
             "thumb_path": "widgets/royalcontactform7.webp",
             "demo_url": "https://www.royaltechbd.com/royalcontactform7"
         },
@@ -1056,7 +1915,14 @@
             "title": "Calendly",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "info",
+                "blurb",
+                "calender",
+                "calendy",
+                "content"
+            ],
             "thumb_path": "widgets/royalcalendly.webp",
             "demo_url": "https://www.royaltechbd.com/royalcalendly"
         },
@@ -1065,7 +1931,12 @@
             "title": "Visitors Stats",
             "type": "widget",
             "tier": "free",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "stats",
+                "visitor",
+                "counter"
+            ],
             "thumb_path": "widgets/royalvisitorsstats.webp",
             "demo_url": "https://www.royaltechbd.com/royalvisitorsstats"
         },
@@ -1074,7 +1945,14 @@
             "title": "Facebook Feed",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "facebook",
+                "feed",
+                "social",
+                "posts",
+                "page"
+            ],
             "thumb_path": "widgets/royalsocialfacebookfeed.webp",
             "demo_url": "https://www.royaltechbd.com/royalsocialfacebookfeed"
         },
@@ -1083,7 +1961,15 @@
             "title": "Instagram Feed",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "instagram",
+                "feed",
+                "social",
+                "photos",
+                "gallery",
+                "insta"
+            ],
             "thumb_path": "widgets/royalsocialinstagramfeed.webp",
             "demo_url": "https://www.royaltechbd.com/royalsocialinstagramfeed"
         },
@@ -1092,7 +1978,14 @@
             "title": "LinkedIn Feed",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "linkedin",
+                "feed",
+                "social",
+                "posts",
+                "page"
+            ],
             "thumb_path": "widgets/royalsociallinkedinfeed.webp",
             "demo_url": "https://www.royaltechbd.com/royalsociallinkedinfeed"
         },
@@ -1101,7 +1994,8 @@
             "title": "Twitter Feed",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [],
             "thumb_path": "widgets/royalsocialtwitterfeed.webp",
             "demo_url": "https://www.royaltechbd.com/royalsocialtwitterfeed"
         },
@@ -1110,7 +2004,14 @@
             "title": "YouTube Video",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "youtube",
+                "video",
+                "popup",
+                "embed",
+                "magnific-popup"
+            ],
             "thumb_path": "widgets/royalyoutubevideo.webp",
             "demo_url": "https://www.royaltechbd.com/royalyoutubevideo"
         },
@@ -1120,6 +2021,12 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "product",
+                "grid"
+            ],
             "thumb_path": "widgets/royalwooproductsingle.webp",
             "demo_url": "https://www.royaltechbd.com/royalwooproductsingle"
         },
@@ -1129,6 +2036,12 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "products",
+                "grid"
+            ],
             "thumb_path": "widgets/royalwooproductsgrid.webp",
             "demo_url": "https://www.royaltechbd.com/royalwooproductsgrid"
         },
@@ -1138,6 +2051,12 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "products",
+                "grid"
+            ],
             "thumb_path": "widgets/royalwoocategory.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoocategory"
         },
@@ -1147,6 +2066,15 @@
             "type": "widget",
             "tier": "free",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "product",
+                "carousel",
+                "products",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalwooproductscarousel.webp",
             "demo_url": "https://www.royaltechbd.com/royalwooproductscarousel"
         },
@@ -1155,7 +2083,15 @@
             "title": "Feed Viewer",
             "type": "widget",
             "tier": "free",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "rss",
+                "feed",
+                "atom",
+                "posts",
+                "articles",
+                "viewer"
+            ],
             "thumb_path": "widgets/royalfeedviewer.webp",
             "demo_url": "https://www.royaltechbd.com/royalfeedviewer"
         },
@@ -1164,7 +2100,15 @@
             "title": "Schema",
             "type": "widget",
             "tier": "free",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "schema",
+                "structured data",
+                "markup",
+                "seo",
+                "jsonld",
+                "rich results"
+            ],
             "thumb_path": "widgets/royalschema.webp",
             "demo_url": "https://www.royaltechbd.com/royalschema"
         },
@@ -1174,6 +2118,18 @@
             "type": "widget",
             "tier": "free",
             "category": "blog-storytelling",
+            "keywords": [
+                "tabs",
+                "advanced",
+                "accordion",
+                "toggle",
+                "template",
+                "story",
+                "testimonials",
+                "voices",
+                "vertical",
+                "unnayan"
+            ],
             "thumb_path": "widgets/royaladvancedtabs.webp",
             "demo_url": "https://www.royaltechbd.com/royaladvancedtabs"
         },
@@ -1182,7 +2138,8 @@
             "title": "Nav Menu Goocy",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [],
             "thumb_path": "widgets/royalnavmenugoocy.webp",
             "demo_url": "https://www.royaltechbd.com/royalnavmenugoocy"
         },
@@ -1191,9 +2148,56 @@
             "title": "Nav Menu Morph",
             "type": "widget",
             "tier": "free",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "menu",
+                "navigation",
+                "morph",
+                "nav",
+                "interactive",
+                "navbar"
+            ],
             "thumb_path": "widgets/royalnavmenumorph.webp",
             "demo_url": "https://www.royaltechbd.com/royalnavmenumorph"
+        },
+        {
+            "slug": "royalgsaptextmarquee",
+            "title": "GSAP Velocity Marquee",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-headings",
+            "keywords": [
+                "gsap",
+                "marquee",
+                "ticker",
+                "velocity",
+                "scroll",
+                "text",
+                "logo",
+                "scrolltrigger",
+                "royalgsapwidgets"
+            ],
+            "thumb_path": "widgets/royalgsaptextmarquee.webp",
+            "demo_url": "https://www.royaltechbd.com/royalgsaptextmarquee"
+        },
+        {
+            "slug": "royalgsapimagereveal",
+            "title": "GSAP Image Reveal",
+            "type": "widget",
+            "tier": "free",
+            "category": "media-headings",
+            "keywords": [
+                "gsap",
+                "image",
+                "reveal",
+                "curtain",
+                "clip-path",
+                "parallax",
+                "scrolltrigger",
+                "royalgsapwidgets"
+            ],
+            "thumb_path": "widgets/royalgsapimagereveal.webp",
+            "demo_url": "https://www.royaltechbd.com/royalgsapimagereveal"
         },
         {
             "slug": "royalpostsliderfluent",
@@ -1201,6 +2205,17 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "fluent",
+                "post",
+                "blog",
+                "flow",
+                "thumbs",
+                "hero",
+                "slider",
+                "royalslider3d-core",
+                "royalpostsliders"
+            ],
             "thumb_path": "widgets/royalpostsliderfluent.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostsliderfluent"
         },
@@ -1210,6 +2225,17 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "knily",
+                "marble",
+                "material",
+                "post",
+                "blog",
+                "hero",
+                "slider",
+                "royalslider3d-core",
+                "royalpostsliders"
+            ],
             "thumb_path": "widgets/royalpostsliderpro.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostsliderpro"
         },
@@ -1219,6 +2245,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "remote",
+                "arrows",
+                "navigation",
+                "slider",
+                "sync",
+                "royalslider3d-core",
+                "royalremotes"
+            ],
             "thumb_path": "widgets/royalremotearrows.webp",
             "demo_url": "https://www.royaltechbd.com/royalremotearrows"
         },
@@ -1228,6 +2263,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "remote",
+                "fraction",
+                "counter",
+                "progress",
+                "slider",
+                "royalslider3d-core",
+                "royalremotes"
+            ],
             "thumb_path": "widgets/royalremotefraction.webp",
             "demo_url": "https://www.royaltechbd.com/royalremotefraction"
         },
@@ -1237,6 +2281,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "remote",
+                "pagination",
+                "dots",
+                "bullets",
+                "numbers",
+                "slider",
+                "royalslider3d-core",
+                "royalremotes"
+            ],
             "thumb_path": "widgets/royalremotepagination.webp",
             "demo_url": "https://www.royaltechbd.com/royalremotepagination"
         },
@@ -1246,6 +2300,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "remote",
+                "thumbs",
+                "thumbnails",
+                "preview",
+                "slider",
+                "royalslider3d-core",
+                "royalremotes"
+            ],
             "thumb_path": "widgets/royalremotethumbs.webp",
             "demo_url": "https://www.royaltechbd.com/royalremotethumbs"
         },
@@ -1255,6 +2318,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "hotspot",
+                "woocommerce",
+                "shoppable",
+                "lookbook",
+                "slider",
+                "royalslider3d-core",
+                "royalwoosliders"
+            ],
             "thumb_path": "widgets/royalwoosliderhotspot.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoosliderhotspot"
         },
@@ -1264,6 +2337,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "wooexpand",
+                "accordion",
+                "woocommerce",
+                "product",
+                "slider",
+                "royalslider3d-core",
+                "royalwoosliders"
+            ],
             "thumb_path": "widgets/royalwoosliderexpand.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoosliderexpand"
         },
@@ -1273,6 +2356,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woostand",
+                "pedestal",
+                "woocommerce",
+                "product",
+                "slider",
+                "royalslider3d-core",
+                "royalwoosliders"
+            ],
             "thumb_path": "widgets/royalwoosliderstand.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoosliderstand"
         },
@@ -1282,6 +2375,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "ring",
+                "orbit",
+                "motion",
+                "fortune",
+                "curved",
+                "wheel",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalsliderring.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderring"
         },
@@ -1291,6 +2394,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "super flow",
+                "cloud",
+                "expo",
+                "fluid",
+                "floating",
+                "hero",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalsliderfluid.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderfluid"
         },
@@ -1300,6 +2413,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "astoria",
+                "avatar",
+                "escape",
+                "agency",
+                "portfolio",
+                "hero",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalslideragency.webp",
             "demo_url": "https://www.royaltechbd.com/royalslideragency"
         },
@@ -1309,6 +2432,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "paranoia",
+                "pandora",
+                "pieces",
+                "reveal",
+                "coddle",
+                "parallax",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalsliderparallax.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderparallax"
         },
@@ -1318,6 +2451,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "cards",
+                "stack",
+                "deck",
+                "flip",
+                "3d",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalslidercardsstack.webp",
             "demo_url": "https://www.royaltechbd.com/royalslidercardsstack"
         },
@@ -1327,6 +2469,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "turnar",
+                "3d",
+                "orbit",
+                "ring",
+                "carousel",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalsliderturnar.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderturnar"
         },
@@ -1336,6 +2487,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "panorama",
+                "3d",
+                "curved",
+                "cylindrical",
+                "gallery",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalsliderpanorama.webp",
             "demo_url": "https://www.royaltechbd.com/royalsliderpanorama"
         },
@@ -1345,6 +2505,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "crossroad",
+                "dual",
+                "diagonal",
+                "editorial",
+                "split",
+                "slider",
+                "royalslider3d-core"
+            ],
             "thumb_path": "widgets/royalslidercrossroad.webp",
             "demo_url": "https://www.royaltechbd.com/royalslidercrossroad"
         },
@@ -1354,6 +2523,17 @@
             "type": "widget",
             "tier": "pro",
             "category": "blog-storytelling",
+            "keywords": [
+                "diagram",
+                "explainer",
+                "hotspot",
+                "schematic",
+                "infographic",
+                "interactive",
+                "road",
+                "blueprint",
+                "newsroom"
+            ],
             "thumb_path": "widgets/royaldiagramexplainer.webp",
             "demo_url": "https://www.royaltechbd.com/royaldiagramexplainer"
         },
@@ -1363,6 +2543,17 @@
             "type": "widget",
             "tier": "pro",
             "category": "blog-storytelling",
+            "keywords": [
+                "roadmap",
+                "timeline",
+                "gantt",
+                "player",
+                "milestone",
+                "replay",
+                "project",
+                "schedule",
+                "newsroom"
+            ],
             "thumb_path": "widgets/royalroadmapplayer.webp",
             "demo_url": "https://www.royaltechbd.com/royalroadmapplayer"
         },
@@ -1372,6 +2563,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "blog-storytelling",
+            "keywords": [
+                "progress",
+                "matrix",
+                "waffle",
+                "unit chart",
+                "infographic",
+                "percentage",
+                "pictogram",
+                "newsroom"
+            ],
             "thumb_path": "widgets/royalprogressmatrix.webp",
             "demo_url": "https://www.royaltechbd.com/royalprogressmatrix"
         },
@@ -1381,6 +2582,17 @@
             "type": "widget",
             "tier": "pro",
             "category": "blog-storytelling",
+            "keywords": [
+                "route",
+                "transit",
+                "map",
+                "stations",
+                "metro",
+                "itinerary",
+                "corridor",
+                "tour",
+                "newsroom"
+            ],
             "thumb_path": "widgets/royalrouteexplainer.webp",
             "demo_url": "https://www.royaltechbd.com/royalrouteexplainer"
         },
@@ -1389,7 +2601,8 @@
             "title": "Form",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [],
             "thumb_path": "widgets/royalform.webp",
             "demo_url": "https://www.royaltechbd.com/royalform"
         },
@@ -1398,7 +2611,18 @@
             "title": "Heading Scroll Trigger",
             "type": "widget",
             "tier": "pro",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "heading",
+                "header",
+                "title",
+                "gsap",
+                "splitting",
+                "scrolltrigger",
+                "scroll",
+                "trigger",
+                "animation"
+            ],
             "thumb_path": "widgets/royalheadingscrolltrigger.webp",
             "demo_url": "https://www.royaltechbd.com/royalheadingscrolltrigger"
         },
@@ -1407,9 +2631,56 @@
             "title": "SVG Drawer",
             "type": "widget",
             "tier": "pro",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "svg draw",
+                "icon",
+                "animate",
+                "custom",
+                "library",
+                "animation",
+                "gsap",
+                "scrolltrigger"
+            ],
             "thumb_path": "widgets/royalsvgdrawer.webp",
             "demo_url": "https://www.royaltechbd.com/royalsvgdrawer"
+        },
+        {
+            "slug": "royalgsaphorizontalscroll",
+            "title": "GSAP Horizontal Scroll",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "keywords": [
+                "gsap",
+                "horizontal",
+                "scroll",
+                "scrolltrigger",
+                "pin",
+                "gallery",
+                "cards",
+                "royalgsapwidgets"
+            ],
+            "thumb_path": "widgets/royalgsaphorizontalscroll.webp",
+            "demo_url": "https://www.royaltechbd.com/royalgsaphorizontalscroll"
+        },
+        {
+            "slug": "royalgsapstackingcards",
+            "title": "GSAP Stacking Cards",
+            "type": "widget",
+            "tier": "pro",
+            "category": "sliders-hero",
+            "keywords": [
+                "gsap",
+                "stacking",
+                "cards",
+                "sticky",
+                "scrolltrigger",
+                "deck",
+                "royalgsapwidgets"
+            ],
+            "thumb_path": "widgets/royalgsapstackingcards.webp",
+            "demo_url": "https://www.royaltechbd.com/royalgsapstackingcards"
         },
         {
             "slug": "royalslidercircle",
@@ -1417,6 +2688,12 @@
             "type": "widget",
             "tier": "pro",
             "category": "sliders-hero",
+            "keywords": [
+                "circle",
+                "slider",
+                "pmage",
+                "service"
+            ],
             "thumb_path": "widgets/royalslidercircle.webp",
             "demo_url": "https://www.royaltechbd.com/royalslidercircle"
         },
@@ -1426,6 +2703,15 @@
             "type": "widget",
             "tier": "pro",
             "category": "blog-storytelling",
+            "keywords": [
+                "list",
+                "post",
+                "category",
+                "blog",
+                "custom",
+                "cpt",
+                "datatables"
+            ],
             "thumb_path": "widgets/royalpostmetaquery.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostmetaquery"
         },
@@ -1435,6 +2721,11 @@
             "type": "widget",
             "tier": "pro",
             "category": "blog-storytelling",
+            "keywords": [
+                "post",
+                "value",
+                "meta"
+            ],
             "thumb_path": "widgets/royalpostmetavalue.webp",
             "demo_url": "https://www.royaltechbd.com/royalpostmetavalue"
         },
@@ -1443,7 +2734,12 @@
             "title": "Search Ajax",
             "type": "widget",
             "tier": "pro",
-            "category": "header-footer-nav",
+            "category": "forms-nav-social",
+            "keywords": [
+                "find",
+                "ajax",
+                "search"
+            ],
             "thumb_path": "widgets/royalsearchajax.webp",
             "demo_url": "https://www.royaltechbd.com/royalsearchajax"
         },
@@ -1452,7 +2748,14 @@
             "title": "YouTube Channel",
             "type": "widget",
             "tier": "pro",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [
+                "youtube",
+                "video",
+                "popup",
+                "embed",
+                "magnific-popup"
+            ],
             "thumb_path": "widgets/royalyoutubechannel.webp",
             "demo_url": "https://www.royaltechbd.com/royalyoutubechannel"
         },
@@ -1462,6 +2765,18 @@
             "type": "widget",
             "tier": "pro",
             "category": "charts-maps-data",
+            "keywords": [
+                "map",
+                "location",
+                "google map",
+                "openstreetmap",
+                "leaflet",
+                "leaflet-routing-machine",
+                "leaflet-markercluster",
+                "jspdf",
+                "html2canvas",
+                "elementor-frontend"
+            ],
             "thumb_path": "widgets/royalmap.webp",
             "demo_url": "https://www.royaltechbd.com/royalmap"
         },
@@ -1470,7 +2785,18 @@
             "title": "Masonry",
             "type": "widget",
             "tier": "pro",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "masonry",
+                "gallery",
+                "portfolio",
+                "filter",
+                "grid",
+                "isotope",
+                "imagesloaded",
+                "magnific-popup",
+                "royalmasonry-widget"
+            ],
             "thumb_path": "widgets/royalmasonry.webp",
             "demo_url": "https://www.royaltechbd.com/royalmasonry"
         },
@@ -1479,7 +2805,24 @@
             "title": "Animated Shape Divider",
             "type": "widget",
             "tier": "pro",
-            "category": "headings-typography",
+            "category": "media-headings",
+            "keywords": [
+                "section",
+                "divider",
+                "shape divider",
+                "animated shape divider",
+                "wave",
+                "shape",
+                "animated",
+                "triangle",
+                "tilt",
+                "clouds",
+                "zigzag",
+                "flame",
+                "brush",
+                "paper",
+                "scrolltrigger"
+            ],
             "thumb_path": "widgets/royalanimatedshapedivider.webp",
             "demo_url": "https://www.royaltechbd.com/royalanimatedshapedivider"
         },
@@ -1489,6 +2832,20 @@
             "type": "widget",
             "tier": "pro",
             "category": "charts-maps-data",
+            "keywords": [
+                "map",
+                "animated map",
+                "routes",
+                "osrm",
+                "gps",
+                "radar",
+                "vehicles",
+                "geomotion",
+                "leaflet",
+                "tracking",
+                "osm",
+                "royal-geomotion"
+            ],
             "thumb_path": "widgets/royal_geomotion.webp",
             "demo_url": "https://www.royaltechbd.com/royalgeomotion"
         },
@@ -1498,6 +2855,22 @@
             "type": "widget",
             "tier": "pro",
             "category": "charts-maps-data",
+            "keywords": [
+                "store",
+                "locator",
+                "map",
+                "dealer",
+                "showroom",
+                "openstreetmap",
+                "leaflet",
+                "location",
+                "places",
+                "gps",
+                "near me",
+                "bangladesh",
+                "finder",
+                "leaflet-markercluster"
+            ],
             "thumb_path": "widgets/royalstorelocator.webp",
             "demo_url": "https://www.royaltechbd.com/royalstorelocator"
         },
@@ -1507,6 +2880,20 @@
             "type": "widget",
             "tier": "pro",
             "category": "charts-maps-data",
+            "keywords": [
+                "branch",
+                "branches",
+                "locator",
+                "map",
+                "leaflet",
+                "openstreetmap",
+                "cards",
+                "directory",
+                "table",
+                "gis",
+                "near me",
+                "bangladesh"
+            ],
             "thumb_path": "widgets/royalbrancheslocator.webp",
             "demo_url": "https://www.royaltechbd.com/royalbrancheslocator"
         },
@@ -1516,6 +2903,16 @@
             "type": "widget",
             "tier": "pro",
             "category": "charts-maps-data",
+            "keywords": [
+                "organogram",
+                "org chart",
+                "tree",
+                "hierarchy",
+                "structure",
+                "team",
+                "department",
+                "matrix"
+            ],
             "thumb_path": "widgets/royalorganogram.webp",
             "demo_url": "https://www.royaltechbd.com/royalorganogram"
         },
@@ -1525,6 +2922,12 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "mini",
+                "cart"
+            ],
             "thumb_path": "widgets/royalwoominicart.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoominicart"
         },
@@ -1534,6 +2937,14 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "products",
+                "nike",
+                "slider",
+                "royalslidernike"
+            ],
             "thumb_path": "widgets/royalwooslidernike.webp",
             "demo_url": "https://www.royaltechbd.com/royalwooslidernike"
         },
@@ -1543,6 +2954,13 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "products",
+                "slider",
+                "royalsliderblur"
+            ],
             "thumb_path": "widgets/royalwoosliderblur.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoosliderblur"
         },
@@ -1552,6 +2970,14 @@
             "type": "widget",
             "tier": "pro",
             "category": "woocommerce",
+            "keywords": [
+                "woo",
+                "woocommerce",
+                "products",
+                "buck",
+                "slider",
+                "royalsliderbuck"
+            ],
             "thumb_path": "widgets/royalwoosliderbuck.webp",
             "demo_url": "https://www.royaltechbd.com/royalwoosliderbuck"
         },
@@ -1560,7 +2986,17 @@
             "title": "Royal Property",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "flat",
+                "property",
+                "carousel",
+                "building",
+                "land",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalproperty.webp",
             "demo_url": "https://www.royaltechbd.com/royalproperty"
         },
@@ -1569,7 +3005,16 @@
             "title": "Royal Auto",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "vehicle",
+                "auto",
+                "carousel",
+                "car",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royalauto.webp",
             "demo_url": "https://www.royaltechbd.com/royalauto"
         },
@@ -1578,7 +3023,14 @@
             "title": "Royal Job",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "post",
+                "job",
+                "list",
+                "royalowlcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royaljob.webp",
             "demo_url": "https://www.royaltechbd.com/royaljob"
         },
@@ -1587,7 +3039,16 @@
             "title": "Royal Travel",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "trip",
+                "travel",
+                "carousel",
+                "tour",
+                "royalowlcarousel",
+                "royalcarousel",
+                "owl carousel"
+            ],
             "thumb_path": "widgets/royaltravel.webp",
             "demo_url": "https://www.royaltechbd.com/royaltravel"
         },
@@ -1596,7 +3057,16 @@
             "title": "Modal Popup",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "popup",
+                "modal",
+                "onload",
+                "exit",
+                "intent",
+                "click",
+                "window"
+            ],
             "thumb_path": "widgets/royalpopup.webp",
             "demo_url": "https://www.royaltechbd.com/royalmodalpopup"
         },
@@ -1605,7 +3075,14 @@
             "title": "Off-Canvas",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "off",
+                "canvas",
+                "sidebar",
+                "panel",
+                "drawer"
+            ],
             "thumb_path": "widgets/royaloffcanvas.webp",
             "demo_url": "https://www.royaltechbd.com/royaloffcanvas"
         },
@@ -1614,7 +3091,10 @@
             "title": "Login",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "sweetalert2"
+            ],
             "thumb_path": "widgets/royallogin.webp",
             "demo_url": "https://www.royaltechbd.com/royallogin"
         },
@@ -1623,7 +3103,16 @@
             "title": "Pricing Comparison",
             "type": "widget",
             "tier": "pro",
-            "category": "forms-marketing-utility",
+            "category": "forms-nav-social",
+            "keywords": [
+                "pric",
+                "pricing",
+                "compair",
+                "comparison",
+                "table",
+                "matrix",
+                "package"
+            ],
             "thumb_path": "widgets/royalpricingcomparison.webp",
             "demo_url": "https://www.royaltechbd.com/royalpricingcomparison"
         },
@@ -1632,7 +3121,15 @@
             "title": "360 Degree View",
             "type": "widget",
             "tier": "pro",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "360",
+                "degree",
+                "spin",
+                "rotate",
+                "product",
+                "image"
+            ],
             "thumb_path": "widgets/royal360degreeview.webp",
             "demo_url": "https://www.royaltechbd.com/royal360degreeview"
         },
@@ -1641,7 +3138,13 @@
             "title": "Flipbook",
             "type": "widget",
             "tier": "pro",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "flipbook",
+                "pdf",
+                "corner flip",
+                "modern"
+            ],
             "thumb_path": "widgets/royalflipbook.webp",
             "demo_url": "https://www.royaltechbd.com/royalflipbook"
         },
@@ -1650,7 +3153,12 @@
             "title": "Pdf Viewer",
             "type": "widget",
             "tier": "pro",
-            "category": "media-gallery-cards",
+            "category": "media-headings",
+            "keywords": [
+                "pdf viewer",
+                "pdf",
+                "viewer"
+            ],
             "thumb_path": "widgets/royalpdfviewer.webp",
             "demo_url": "https://www.royaltechbd.com/royalpdfviewer"
         },
@@ -1659,7 +3167,8 @@
             "title": "Google Reviews",
             "type": "widget",
             "tier": "pro",
-            "category": "social-feeds-reviews",
+            "category": "forms-nav-social",
+            "keywords": [],
             "thumb_path": "widgets/royalgooglereviews.webp",
             "demo_url": "https://www.royaltechbd.com/royalgooglereviews"
         },
@@ -1668,7 +3177,13 @@
             "title": "Product Title",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "single product",
+                "title",
+                "layout"
+            ],
             "thumb_path": "layout/royal-product-title.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-title"
         },
@@ -1677,7 +3192,13 @@
             "title": "Product Price",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "single product",
+                "price",
+                "sale"
+            ],
             "thumb_path": "layout/royal-product-price.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-price"
         },
@@ -1686,7 +3207,13 @@
             "title": "Product Gallery",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "single product",
+                "gallery",
+                "zoom"
+            ],
             "thumb_path": "layout/royal-product-gallery.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-gallery"
         },
@@ -1695,7 +3222,13 @@
             "title": "Add to Cart",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "add to cart",
+                "buy",
+                "variations"
+            ],
             "thumb_path": "layout/royal-product-add-to-cart.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-add-to-cart"
         },
@@ -1704,7 +3237,13 @@
             "title": "Product Tabs",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "tabs",
+                "description",
+                "reviews"
+            ],
             "thumb_path": "layout/royal-product-tabs.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-tabs"
         },
@@ -1713,7 +3252,12 @@
             "title": "Short Description",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "short description",
+                "summary"
+            ],
             "thumb_path": "layout/royal-product-short-desc.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-short-desc"
         },
@@ -1722,7 +3266,13 @@
             "title": "Product Meta",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "meta",
+                "sku",
+                "tags"
+            ],
             "thumb_path": "layout/royal-product-meta.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-meta"
         },
@@ -1731,7 +3281,13 @@
             "title": "Product Rating",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "rating",
+                "stars",
+                "reviews"
+            ],
             "thumb_path": "layout/royal-product-rating.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-rating"
         },
@@ -1740,7 +3296,12 @@
             "title": "Product Reviews",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "reviews",
+                "comments"
+            ],
             "thumb_path": "layout/royal-product-reviews.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-reviews"
         },
@@ -1749,7 +3310,12 @@
             "title": "Stock Status",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "stock",
+                "inventory"
+            ],
             "thumb_path": "layout/royal-product-stock.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-stock"
         },
@@ -1758,7 +3324,12 @@
             "title": "Product Content",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "content",
+                "description"
+            ],
             "thumb_path": "layout/royal-product-content.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-content"
         },
@@ -1767,7 +3338,12 @@
             "title": "Additional Information",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "attributes",
+                "specifications"
+            ],
             "thumb_path": "layout/royal-product-additional-info.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-additional-info"
         },
@@ -1776,7 +3352,13 @@
             "title": "Product Navigation",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "navigation",
+                "next",
+                "prev"
+            ],
             "thumb_path": "layout/royal-product-navigation.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-navigation"
         },
@@ -1785,7 +3367,13 @@
             "title": "Sale Badge",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "sale",
+                "badge",
+                "discount"
+            ],
             "thumb_path": "layout/royal-product-sale-badge.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-sale-badge"
         },
@@ -1794,7 +3382,12 @@
             "title": "Upsell Products",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "upsells",
+                "grid"
+            ],
             "thumb_path": "layout/royal-product-upsells.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-upsells"
         },
@@ -1803,7 +3396,12 @@
             "title": "Related Products",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "related",
+                "products"
+            ],
             "thumb_path": "layout/royal-product-related.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-related"
         },
@@ -1812,7 +3410,12 @@
             "title": "Product Sharing",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "share",
+                "social"
+            ],
             "thumb_path": "layout/royal-product-sharing.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-sharing"
         },
@@ -1821,7 +3424,12 @@
             "title": "Product SKU",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "sku",
+                "product"
+            ],
             "thumb_path": "layout/royal-product-sku.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-product-sku"
         },
@@ -1830,7 +3438,12 @@
             "title": "WooCommerce Hook",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "hook",
+                "action"
+            ],
             "thumb_path": "layout/royal-wc-hook.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-wc-hook"
         },
@@ -1839,7 +3452,12 @@
             "title": "Breadcrumb",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "breadcrumb",
+                "navigation"
+            ],
             "thumb_path": "layout/royal-wc-breadcrumb.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-wc-breadcrumb"
         },
@@ -1848,7 +3466,12 @@
             "title": "WC Notices",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "notices",
+                "alerts"
+            ],
             "thumb_path": "layout/royal-wc-notices.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-wc-notices"
         },
@@ -1857,7 +3480,13 @@
             "title": "Archive Products",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "archive",
+                "shop",
+                "grid"
+            ],
             "thumb_path": "layout/royal-archive-products.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-archive-products"
         },
@@ -1866,7 +3495,13 @@
             "title": "Orderby",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "archive",
+                "sort",
+                "orderby"
+            ],
             "thumb_path": "layout/royal-archive-orderby.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-archive-orderby"
         },
@@ -1875,7 +3510,12 @@
             "title": "Result Count",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "archive",
+                "count"
+            ],
             "thumb_path": "layout/royal-archive-result-count.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-archive-result-count"
         },
@@ -1884,7 +3524,12 @@
             "title": "Archive Description",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "archive",
+                "description"
+            ],
             "thumb_path": "layout/royal-archive-description.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-archive-description"
         },
@@ -1893,7 +3538,12 @@
             "title": "WooCommerce Title",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "archive",
+                "title"
+            ],
             "thumb_path": "layout/royal-wc-title.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-wc-title"
         },
@@ -1902,7 +3552,12 @@
             "title": "Active Filters",
             "type": "layout",
             "tier": "free",
-            "category": "layout-product-shop",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "filters",
+                "archive"
+            ],
             "thumb_path": "layout/royal-active-filters.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-active-filters"
         },
@@ -1911,7 +3566,13 @@
             "title": "Cart Table",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "cart",
+                "table",
+                "checkout"
+            ],
             "thumb_path": "layout/royal-cart-table.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-cart-table"
         },
@@ -1920,7 +3581,13 @@
             "title": "Cart Totals",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "cart",
+                "totals",
+                "subtotal"
+            ],
             "thumb_path": "layout/royal-cart-totals.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-cart-totals"
         },
@@ -1929,7 +3596,12 @@
             "title": "Empty Cart",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "cart",
+                "empty"
+            ],
             "thumb_path": "layout/royal-empty-cart.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-empty-cart"
         },
@@ -1938,7 +3610,13 @@
             "title": "Billing Details",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "checkout",
+                "billing",
+                "form"
+            ],
             "thumb_path": "layout/royal-checkout-billing.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-checkout-billing"
         },
@@ -1947,7 +3625,12 @@
             "title": "Shipping Details",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "checkout",
+                "shipping"
+            ],
             "thumb_path": "layout/royal-checkout-shipping.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-checkout-shipping"
         },
@@ -1956,7 +3639,13 @@
             "title": "Coupon Form",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "checkout",
+                "coupon",
+                "promo"
+            ],
             "thumb_path": "layout/royal-checkout-coupon.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-checkout-coupon"
         },
@@ -1965,7 +3654,12 @@
             "title": "Checkout Login",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "checkout",
+                "login"
+            ],
             "thumb_path": "layout/royal-checkout-login.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-checkout-login"
         },
@@ -1974,7 +3668,12 @@
             "title": "Order Review",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "checkout",
+                "order review"
+            ],
             "thumb_path": "layout/royal-checkout-order-review.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-checkout-order-review"
         },
@@ -1983,7 +3682,13 @@
             "title": "Payment Methods",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "checkout",
+                "payment",
+                "gateway"
+            ],
             "thumb_path": "layout/royal-checkout-payment.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-checkout-payment"
         },
@@ -1992,7 +3697,12 @@
             "title": "Account Navigation",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "my account",
+                "navigation"
+            ],
             "thumb_path": "layout/royal-account-navigation.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-account-navigation"
         },
@@ -2001,7 +3711,12 @@
             "title": "Account Content",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "my account",
+                "orders"
+            ],
             "thumb_path": "layout/royal-account-content.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-account-content"
         },
@@ -2010,7 +3725,12 @@
             "title": "Login Form",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "my account",
+                "login"
+            ],
             "thumb_path": "layout/royal-account-login.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-account-login"
         },
@@ -2019,7 +3739,12 @@
             "title": "Register Form",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "my account",
+                "register"
+            ],
             "thumb_path": "layout/royal-account-register.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-account-register"
         },
@@ -2028,7 +3753,12 @@
             "title": "Lost Password Form",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "my account",
+                "password"
+            ],
             "thumb_path": "layout/royal-account-lost-password.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-account-lost-password"
         },
@@ -2037,7 +3767,12 @@
             "title": "Order Message",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "thank you",
+                "order"
+            ],
             "thumb_path": "layout/royal-ty-order-message.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-ty-order-message"
         },
@@ -2046,7 +3781,12 @@
             "title": "Order Overview",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "thank you",
+                "overview"
+            ],
             "thumb_path": "layout/royal-ty-order-overview.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-ty-order-overview"
         },
@@ -2055,7 +3795,12 @@
             "title": "Order Details",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "thank you",
+                "receipt"
+            ],
             "thumb_path": "layout/royal-ty-order-details.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-ty-order-details"
         },
@@ -2064,7 +3809,12 @@
             "title": "Order Meta",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "thank you",
+                "meta"
+            ],
             "thumb_path": "layout/royal-ty-order-meta.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-ty-order-meta"
         },
@@ -2073,7 +3823,12 @@
             "title": "Customer Details",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "thank you",
+                "customer"
+            ],
             "thumb_path": "layout/royal-ty-customer-details.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-ty-customer-details"
         },
@@ -2082,7 +3837,12 @@
             "title": "Payment Instructions",
             "type": "layout",
             "tier": "free",
-            "category": "layout-cart-checkout",
+            "category": "layout-builder",
+            "keywords": [
+                "woocommerce",
+                "thank you",
+                "payment"
+            ],
             "thumb_path": "layout/royal-ty-payment-instructions.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-ty-payment-instructions"
         },
@@ -2091,7 +3851,13 @@
             "title": "Post Title",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "title",
+                "blog",
+                "heading"
+            ],
             "thumb_path": "layout/royal-post-title.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-title"
         },
@@ -2100,7 +3866,12 @@
             "title": "Post Content",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "content",
+                "article"
+            ],
             "thumb_path": "layout/royal-post-content.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-content"
         },
@@ -2109,7 +3880,12 @@
             "title": "Featured Image",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "featured image",
+                "thumbnail"
+            ],
             "thumb_path": "layout/royal-post-image.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-image"
         },
@@ -2118,7 +3894,12 @@
             "title": "Author Bio",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "author",
+                "bio"
+            ],
             "thumb_path": "layout/royal-post-author-bio.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-author-bio"
         },
@@ -2127,7 +3908,12 @@
             "title": "Post Categories",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "categories",
+                "taxonomy"
+            ],
             "thumb_path": "layout/royal-post-categories.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-categories"
         },
@@ -2136,7 +3922,12 @@
             "title": "Post Tags",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "tags",
+                "taxonomy"
+            ],
             "thumb_path": "layout/royal-post-tags.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-tags"
         },
@@ -2145,7 +3936,12 @@
             "title": "Post Comments",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "comments",
+                "discussion"
+            ],
             "thumb_path": "layout/royal-post-comments.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-comments"
         },
@@ -2154,7 +3950,13 @@
             "title": "Post Navigation",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "navigation",
+                "next",
+                "prev"
+            ],
             "thumb_path": "layout/royal-post-navigation.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-navigation"
         },
@@ -2163,7 +3965,12 @@
             "title": "Post Date",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "date",
+                "meta"
+            ],
             "thumb_path": "layout/royal-post-date.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-date"
         },
@@ -2172,7 +3979,12 @@
             "title": "Post Excerpt",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "excerpt",
+                "summary"
+            ],
             "thumb_path": "layout/royal-post-excerpt.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-excerpt"
         },
@@ -2181,7 +3993,12 @@
             "title": "Post Author",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "single post",
+                "author",
+                "meta"
+            ],
             "thumb_path": "layout/royal-post-author.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-post-author"
         },
@@ -2190,7 +4007,13 @@
             "title": "Blog Archive",
             "type": "layout",
             "tier": "free",
-            "category": "layout-post-archive",
+            "category": "layout-builder",
+            "keywords": [
+                "blog",
+                "archive",
+                "grid",
+                "posts"
+            ],
             "thumb_path": "layout/royal-blog-archive.webp",
             "demo_url": "https://demo.royaltechbd.com/royal-blog-archive"
         },
@@ -2200,6 +4023,13 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "aos",
+                "scroll",
+                "animation",
+                "fade",
+                "reveal"
+            ],
             "thumb_path": "extensions/royalaos.webp",
             "demo_url": "https://demo.royaltechbd.com/royalaos"
         },
@@ -2209,6 +4039,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "counter",
+                "number",
+                "stats",
+                "animation"
+            ],
             "thumb_path": "extensions/royalcounterz.webp",
             "demo_url": "https://demo.royaltechbd.com/royalcounterz"
         },
@@ -2218,6 +4054,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "css",
+                "custom css",
+                "code",
+                "style"
+            ],
             "thumb_path": "extensions/royalcustomcss.webp",
             "demo_url": "https://demo.royaltechbd.com/royalcustomcss"
         },
@@ -2227,6 +4069,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "equal height",
+                "column",
+                "match height",
+                "grid"
+            ],
             "thumb_path": "extensions/royalequalheight.webp",
             "demo_url": "https://demo.royaltechbd.com/royalequalheight"
         },
@@ -2236,6 +4084,13 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "floating",
+                "float",
+                "translate",
+                "rotate",
+                "animation"
+            ],
             "thumb_path": "extensions/royalfloatingeffects.webp",
             "demo_url": "https://demo.royaltechbd.com/royalfloatingeffects"
         },
@@ -2245,6 +4100,13 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "grid",
+                "overlay",
+                "guide",
+                "alignment",
+                "editor"
+            ],
             "thumb_path": "extensions/royalgridlayer.webp",
             "demo_url": "https://demo.royaltechbd.com/royalgridlayer"
         },
@@ -2254,6 +4116,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "hover",
+                "animation",
+                "transform",
+                "interaction"
+            ],
             "thumb_path": "extensions/royalhoveranimator.webp",
             "demo_url": "https://demo.royaltechbd.com/royalhoveranimator"
         },
@@ -2263,6 +4131,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "live copy",
+                "copy",
+                "paste",
+                "clipboard"
+            ],
             "thumb_path": "extensions/royallivecopy.webp",
             "demo_url": "https://demo.royaltechbd.com/royallivecopy"
         },
@@ -2272,6 +4146,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "overlay",
+                "underlay",
+                "background",
+                "layer"
+            ],
             "thumb_path": "extensions/royaloverlayunderlay.webp",
             "demo_url": "https://demo.royaltechbd.com/royaloverlayunderlay"
         },
@@ -2281,6 +4161,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "overlay",
+                "hover",
+                "mask",
+                "content"
+            ],
             "thumb_path": "extensions/royaloverlayz.webp",
             "demo_url": "https://demo.royaltechbd.com/royaloverlayz"
         },
@@ -2290,6 +4176,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "pseudo",
+                "before",
+                "after",
+                "css"
+            ],
             "thumb_path": "extensions/royalpseudo.webp",
             "demo_url": "https://demo.royaltechbd.com/royalpseudo"
         },
@@ -2299,6 +4191,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "reading",
+                "progress bar",
+                "scroll",
+                "indicator"
+            ],
             "thumb_path": "extensions/royalreadingprogressbar.webp",
             "demo_url": "https://demo.royaltechbd.com/royalreadingprogressbar"
         },
@@ -2308,6 +4206,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "shape divider",
+                "wave",
+                "svg",
+                "section"
+            ],
             "thumb_path": "extensions/royalshapedivider.webp",
             "demo_url": "https://demo.royaltechbd.com/royalshapedivider"
         },
@@ -2317,6 +4221,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "text",
+                "typography",
+                "stroke",
+                "gradient"
+            ],
             "thumb_path": "extensions/royaltextz.webp",
             "demo_url": "https://demo.royaltechbd.com/royaltextz"
         },
@@ -2326,6 +4236,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "text",
+                "vertical",
+                "flip",
+                "blend mode"
+            ],
             "thumb_path": "extensions/royaltextupset.webp",
             "demo_url": "https://demo.royaltechbd.com/royaltextupset"
         },
@@ -2335,6 +4251,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "tooltip",
+                "popover",
+                "hint",
+                "hover"
+            ],
             "thumb_path": "extensions/royaltooltip.webp",
             "demo_url": "https://demo.royaltechbd.com/royaltooltip"
         },
@@ -2344,6 +4266,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "video",
+                "mask",
+                "shape",
+                "svg"
+            ],
             "thumb_path": "extensions/royalvideomask.webp",
             "demo_url": "https://demo.royaltechbd.com/royalvideomask"
         },
@@ -2353,6 +4281,12 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "wrapper link",
+                "clickable",
+                "section link",
+                "url"
+            ],
             "thumb_path": "extensions/royalwrapperlink.webp",
             "demo_url": "https://demo.royaltechbd.com/royalwrapperlink"
         },
@@ -2362,6 +4296,15 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "gsap",
+                "scrolltrigger",
+                "scroll",
+                "trigger",
+                "animation",
+                "pin",
+                "scrub"
+            ],
             "thumb_path": "extensions/royalgsapscrolltrigger.webp",
             "demo_url": "https://demo.royaltechbd.com/royalgsapscrolltrigger"
         },
@@ -2371,6 +4314,13 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "background",
+                "particles",
+                "canvas",
+                "circle",
+                "animation"
+            ],
             "thumb_path": "extensions/royalbackground.webp",
             "demo_url": "https://demo.royaltechbd.com/royalbackground"
         },
@@ -2380,6 +4330,14 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "display conditions",
+                "visibility",
+                "rules",
+                "login",
+                "date",
+                "browser"
+            ],
             "thumb_path": "extensions/displayconditions.webp",
             "demo_url": "https://demo.royaltechbd.com/displayconditions"
         },
@@ -2389,6 +4347,14 @@
             "type": "extension",
             "tier": "free",
             "category": "extensions",
+            "keywords": [
+                "motion effects",
+                "sticky",
+                "parallax",
+                "tilt",
+                "mouse",
+                "scroll"
+            ],
             "thumb_path": "extensions/royalmotioneffects.webp",
             "demo_url": "https://demo.royaltechbd.com/royalmotioneffects"
         },
@@ -2398,6 +4364,14 @@
             "type": "extension",
             "tier": "pro",
             "category": "extensions",
+            "keywords": [
+                "magic scroll",
+                "gsap",
+                "scrolltrigger",
+                "parallax",
+                "pin",
+                "animation"
+            ],
             "thumb_path": "extensions/royalmagicscroll.webp",
             "demo_url": "https://demo.royaltechbd.com/royalmagicscroll"
         },
@@ -2407,6 +4381,13 @@
             "type": "extension",
             "tier": "pro",
             "category": "extensions",
+            "keywords": [
+                "sticky header",
+                "fixed header",
+                "blur",
+                "transparent",
+                "navbar"
+            ],
             "thumb_path": "extensions/royalstickyheader.webp",
             "demo_url": "https://demo.royaltechbd.com/royalstickyheader"
         },
@@ -2416,6 +4397,13 @@
             "type": "extension",
             "tier": "pro",
             "category": "extensions",
+            "keywords": [
+                "mega menu",
+                "navigation",
+                "dropdown",
+                "menu",
+                "template"
+            ],
             "thumb_path": "extensions/royalmegamenu.webp",
             "demo_url": "https://www.royaltechbd.com/royalmegamenu"
         },
@@ -2425,6 +4413,14 @@
             "type": "extension",
             "tier": "pro",
             "category": "extensions",
+            "keywords": [
+                "scroll progress",
+                "indicator",
+                "svg",
+                "rocket",
+                "vine",
+                "scroll"
+            ],
             "thumb_path": "extensions/royalscrollindicator.webp",
             "demo_url": "https://demo.royaltechbd.com/royalscrollindicator"
         },
@@ -2434,6 +4430,13 @@
             "type": "extension",
             "tier": "pro",
             "category": "extensions",
+            "keywords": [
+                "adaptive background",
+                "slider",
+                "dominant color",
+                "theme",
+                "tint"
+            ],
             "thumb_path": "extensions/royaladaptivebg.webp",
             "demo_url": "https://demo.royaltechbd.com/royaladaptivebg"
         }
